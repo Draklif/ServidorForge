@@ -8,6 +8,7 @@ crash-reports/
 world-debug/
 mod_data/
 
+# World Folders
 world/advancements/
 world/chunkloaders/
 world/data/
@@ -18,7 +19,6 @@ world/entities/
 world/playerdata/
 world/region/
 world/stats/
-
 
 # Compiled class file
 *.class
@@ -48,3 +48,4 @@ graveyardGhoulingUUIDmapping.txt
 # Add some .jar
 !server.jar
 !mods/*.jar
+!mods_client/*.jar
