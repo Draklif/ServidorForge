@@ -3,8 +3,8 @@
 
  Directorio de C:\Users\jose-\Servers\ServidorForge-1.21\mods
 
-01/07/2023  14:23    <DIR>          .
-01/07/2023  15:10    <DIR>          ..
+03/07/2023  16:22    <DIR>          .
+03/07/2023  15:17    <DIR>          ..
 01/07/2023  14:13           199.575 AdChimneys-1.20.1-10.1.0.0-build.0142.jar
 01/07/2023  14:13         1.700.046 additionallanterns-1.0.4-forge-mc1.20.jar
 01/07/2023  14:13           530.405 additional_lights-1.20.1-2.1.7.jar
@@ -24,7 +24,6 @@
 01/07/2023  14:13        21.800.460 BiomesOPlenty-1.20.1-18.0.0.592.jar
 01/07/2023  14:13            26.618 blueflame-1.20.0-1.0.3.jar
 01/07/2023  14:13           114.594 botarium-forge-1.20-2.1.0.jar
-01/07/2023  14:13           525.739 Bountiful-6.0.1+1.20.1-forge.jar
 01/07/2023  14:13            38.169 caelus-forge-3.1.0+1.20.jar
 01/07/2023  14:13           293.958 camera-1.20.1-1.0.3.jar
 01/07/2023  14:13         2.613.393 cfm-forge-1.20.1-7.0.0-pre36.jar
@@ -143,5 +142,5 @@
 01/07/2023  14:13            42.621 woodenhopper-1.20.1-1.5.1.0.jar
 01/07/2023  14:13            20.101 xptome-1.20.1-2.1.7.jar
 01/07/2023  14:13         3.892.655 [1.20.1] SecurityCraft v1.9.7-beta1.jar
-             138 archivos    233.347.436 bytes
-               2 dirs  147.721.179.136 bytes libres
+             137 archivos    232.821.697 bytes
+               2 dirs  147.851.649.024 bytes libres
