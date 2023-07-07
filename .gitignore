@@ -34,7 +34,6 @@ world/stats/
 *.mca
 *.dat
 *.dat_old
-server.properties
 whitelist.json
 usercache.json
 usernamecache.json
