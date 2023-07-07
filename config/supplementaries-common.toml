@@ -77,8 +77,10 @@
 
 	[redstone.faucet]
 		enabled = true
+		#Turn off to prevent faucets from dropping items
+		spill_items = true
 		#Allows faucets to fill entities inventories
-		drop_items = false
+		fill_entities_below = false
 
 [functional]
 	fodder = true
@@ -260,6 +262,8 @@
 		rain_wash_ash = true
 		#Use a datapack to tweak rarity
 		basalt_ash = true
+		#Burning mobs will drop ash when they die
+		ash_from_burning_mobs = true
 
 	[building.flag]
 		enabled = true
@@ -360,7 +364,7 @@
 		#Do bombs break blocks like tnt?
 		#Allowed Values: ALL, WEAK, NONE
 		break_blocks = "WEAK"
-		#Put here any number other than 0 to have your bombs explode after a certaom amount of ticks instead than on contact
+		#Put here any number other than 0 to have your bombs explode after a certain amount of ticks instead than on contact
 		#Range: 0 ~ 100000
 		bomb_fuse = 0
 
@@ -506,6 +510,9 @@
 		#These maps will roll a difference structure every time. Decrease their max trades to balance them
 		#Range: 1 ~ 12
 		map_trade_max_trades = 2
+		#Miminum search radius for quill. Used to incrase the radius of vanilla searches. For reference buried treasures are at 50 and locate is at 100 chunks
+		#Range: 10 ~ 600
+		min_search_radius = 75
 
 	[tweaks.ceiling_banners]
 		#Allow banners to be placed on ceilings

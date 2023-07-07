@@ -8,7 +8,7 @@ Descargar el repositorio y añadir la carpeta de mods directamente al ```.minecr
 
 ## Changelog
 
-Añadidos mods de exploración y algunos nuevos mobs para poblar el mundo. Se actualiza Forge a la versión estable 47.1.0.
+Actualización a Forge 47.1.0 con algunos mods pequeños agregados para exploración. Se actualizan varios mods según compatibilidad con nuevo Forge.
 
 ### Server
 
@@ -17,7 +17,7 @@ Añadidos mods de exploración y algunos nuevos mobs para poblar el mundo. Se ac
 * Añadido Easy Anvils v8.0.0
 * Añadido Explorify v1.3.0
 * Añadido Kobolds v2.8.5
-* Añadido More Mob Variants v1.2.1
+* Añadido Obscure v1-API15
 * Añadido Tiny Skeletons v8.0.0
 * Actualizado Camera v1.0.3 -> v1.0.4
 * Actualizado Overhauled Village v3.3.1 -> v3.3.2
