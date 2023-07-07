@@ -1,4 +1,4 @@
-# Versión 2.0.0
+# Versión 2.0.1
 
 Servidor para Minecraft 1.20.1 (Forge 47.1.0). Aquí únicamente se incluyen los mods, el ejecutable del servidor y las configuraciones.
 
@@ -10,7 +10,11 @@ Descargar e instalar primero Forge. Descargar el repositorio y añadir la carpet
 
 Actualización a Forge 47.1.0 con algunos mods pequeños agregados para exploración. Se actualizan varios mods según compatibilidad con nuevo Forge.
 
-### Server
+### 2.0.1
+
+* Removido Simple Hats
+
+### 2.0.0
 
 * Añadido Aquamirae v6-API15
 * Añadido Create v0.5.1d
@@ -19,6 +23,7 @@ Actualización a Forge 47.1.0 con algunos mods pequeños agregados para explorac
 * Añadido Kobolds v2.8.5
 * Añadido Obscure v1-API15
 * Añadido Tiny Skeletons v8.0.0
+* Añadido Ding v1.4.1 (Cliente)
 * Actualizado Camera v1.0.3 -> v1.0.4
 * Actualizado Overhauled Village v3.3.1 -> v3.3.2
 * Actualizado Chunk Loaders v1.2.4 -> v1.2.5
@@ -35,7 +40,3 @@ Actualización a Forge 47.1.0 con algunos mods pequeños agregados para explorac
 * Actualizado SuperMartin642 Config Lib v1.1.6 -> v1.1.7
 * Actualizado Supplementaries v.2.5.15 -> v2.5.18
 * Actualizado Terrablender v3.0.0.165 -> v3.0.0.167
-
-### Client
-
-* Añadido Ding v1.4.1
