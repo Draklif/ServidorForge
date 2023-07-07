@@ -1,10 +1,10 @@
 # Versión 2.0.0
 
-Servidor para Minecraft 1.20. (Forge 47.1.0). Aquí únicamente se incluyen los mods, el ejecutable del servidor y las configuraciones.
+Servidor para Minecraft 1.20.1 (Forge 47.1.0). Aquí únicamente se incluyen los mods, el ejecutable del servidor y las configuraciones.
 
 ## Instalación
 
-Descargar el repositorio y añadir la carpeta de mods directamente al ```.minecraft/```. La carpeta de mods_client incluye mods adicionales para el cliente.
+Descargar e instalar primero Forge. Descargar el repositorio y añadir la carpeta de mods directamente al ```.minecraft/```. La carpeta de mods_client incluye mods adicionales para el cliente. Para actualizar solo hace falta con descargar los mods modificados según el changelog o reemplazar la(s) carpeta(s) por completo.
 
 ## Changelog
 
