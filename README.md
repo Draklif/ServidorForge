@@ -1,4 +1,4 @@
-# Versión 2.0.2
+# Versión 2.1.0
 
 Servidor para Minecraft 1.20.1 (Forge 47.1.0). Aquí únicamente se incluyen los mods, el ejecutable del servidor y las configuraciones.
 
@@ -9,6 +9,28 @@ Descargar e instalar primero Forge. Descargar el repositorio y añadir la carpet
 ## Changelog
 
 Actualización a Forge 47.1.0 con algunos mods pequeños agregados para exploración. Se actualizan varios mods según compatibilidad con nuevo Forge.
+
+### 2.1.0
+
+* Removido Nether Depths Upgrade
+* Removido Tiny Skeletons
+* Actualizado Architectury API v9.0.8 -> v9.1.10
+* Actualizado Bagus Lib v2.1.0 -> v2.3.0
+* Actualizado Biome Makeover v1.10.1 -> v1.10.3
+* Actualizado Cloth Config API v11.0.99 -> v11.1.106
+* Actualizado Collective v6.62 -> v6.65
+* Actualizado Creative Core v2.10.26 -> v2.10.28
+* Actualizado Friends and Foes v1.9.2 -> v1.9.3
+* Actualizado Groovy Mod Loader v4.0.2 -> v4.0.3
+* Actualizado Hunter Illager v10.0.1 -> v10.1.1
+* Actualizado Kobolds v2.8.5 -> v2.8.6
+* Actualizado Kotlin Forge v4.3.0 -> v4.4.0
+* Actualizado Resourceful Lib v2.1.1 -> v2.1.2
+* Actualizado Sophisticated Backpacks v3.18.54.870 -> v3.18.56.890
+* Actualizado Sophisticated Core v0.5.77.347 -> v0.5.78.366
+* Actualizado Trading Post v8.0.0 -> v8.0.1
+* Actualizado Waystones v14.0.0 -> v14.0.1
+* Actualizado Better Advancements v0.3.2.160 -> v0.3.2.161 (Cliente)
 
 ### 2.0.2
 
