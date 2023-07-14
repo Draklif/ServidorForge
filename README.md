@@ -1,4 +1,4 @@
-# Versión 2.0.1
+# Versión 2.0.2
 
 Servidor para Minecraft 1.20.1 (Forge 47.1.0). Aquí únicamente se incluyen los mods, el ejecutable del servidor y las configuraciones.
 
@@ -9,6 +9,15 @@ Descargar e instalar primero Forge. Descargar el repositorio y añadir la carpet
 ## Changelog
 
 Actualización a Forge 47.1.0 con algunos mods pequeños agregados para exploración. Se actualizan varios mods según compatibilidad con nuevo Forge.
+
+### 2.0.2
+
+* Añadido Better F3 v7.0.1 (Cliente)
+* Añadido Equipment Compare v1.3.6 (Cliente)
+* Añadido Just Enough Resources v1.4.0.222 (Cliente)
+* Añadido Offline Skins v1 (Cliente)
+* Añadido Overloaded Armor Bar v1 (Cliente)
+* Actualizado Inventory Hud v3.4.13 -> v3.4.14 (Cliente)
 
 ### 2.0.1
 
