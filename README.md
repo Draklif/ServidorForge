@@ -1,4 +1,4 @@
-# Versión 2.1.0
+# Versión 2.1.1
 
 Servidor para Minecraft 1.20.1 (Forge 47.1.0). Aquí únicamente se incluyen los mods, el ejecutable del servidor y las configuraciones.
 
@@ -9,6 +9,15 @@ Descargar e instalar primero Forge. Descargar el repositorio y añadir la carpet
 ## Changelog
 
 Actualización a Forge 47.1.0 con algunos mods pequeños agregados para exploración. Se actualizan varios mods según compatibilidad con nuevo Forge.
+
+### 2.1.1
+
+* Añadido Iceberg v1.1.10
+* Añadido Freecam v1.2.1 (Cliente) *`[Este mod puede usarse para hacer trampa, así que usar de manera responsable]`*
+* Se aumenta la distancia del talado de árboles (100 -> 200)
+* Se eliminan los obituarios
+* Se elimina el viaje interdimensional con waystones
+* Se desactiva el penalizador de trabajo previo en los yunques
 
 ### 2.1.0
 

@@ -55,7 +55,7 @@
 	#VANILLA: Penalty doubles every time an item is worked.
 	#DISABLED: Penalty stays at 0 and does not increase.
 	#Allowed Values: DISABLED, VANILLA, FIXED
-	prior_work_penalty = "FIXED"
+	prior_work_penalty = "DISABLED"
 	#Prevents the prior work penalty from increasing when the item has only been renamed or repaired.
 	penalty_free_renames_and_repairs = true
 	#Constant to use when "prior_work_penalty" is set to "FIXED". Every subsequent operation will increase by this value in levels.
