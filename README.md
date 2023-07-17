@@ -1,4 +1,4 @@
-# Versión 2.1.2
+# Versión 2.1.3
 
 Servidor para Minecraft 1.20.1 (Forge 47.1.0). Aquí únicamente se incluyen los mods, el ejecutable del servidor y las configuraciones.
 
@@ -9,6 +9,13 @@ Descargar e instalar primero Forge. Descargar el repositorio y añadir la carpet
 ## Changelog
 
 Actualización a Forge 47.1.0 con algunos mods pequeños agregados para exploración. Se actualizan varios mods según compatibilidad con nuevo Forge.
+
+### 2.1.3
+
+* Añadido Enchantment Descriptions v17.0.1 (Cliente)
+* Añadido Farsight v3.2 (Cliente)
+* Añadido Shulker Box Tooltip v4.0.4 (Cliente)
+* Añadido Skin Layers 3D v1.5.4 (Cliente)
 
 ### 2.1.2
 
