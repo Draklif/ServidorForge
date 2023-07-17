@@ -1,4 +1,4 @@
-# Versión 2.1.1
+# Versión 2.1.2
 
 Servidor para Minecraft 1.20.1 (Forge 47.1.0). Aquí únicamente se incluyen los mods, el ejecutable del servidor y las configuraciones.
 
@@ -9,6 +9,10 @@ Descargar e instalar primero Forge. Descargar el repositorio y añadir la carpet
 ## Changelog
 
 Actualización a Forge 47.1.0 con algunos mods pequeños agregados para exploración. Se actualizan varios mods según compatibilidad con nuevo Forge.
+
+### 2.1.2
+
+* Flying is now enabled on this server
 
 ### 2.1.1
 
