@@ -21,6 +21,7 @@ world/playerdata/
 world/region/
 world/stats/
 world/*.nbt
+world/camera_images/
 
 # Compiled class file
 *.class
