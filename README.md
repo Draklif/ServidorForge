@@ -1,4 +1,4 @@
-# Versión 2.3.0
+# Versión 2.3.1
 Servidor para `Minecraft 1.20.1 - (Forge 47.1.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
@@ -13,6 +13,9 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 2.3.1
+* Actualizado Moonlight Lib v2.6.1 -> v2.7.2
 
 ### 2.3.0
 * Removido Scuba Gear
