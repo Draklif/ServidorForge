@@ -14,6 +14,64 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
 
+### 3.0.0
+* Removido Pam's Harvestcraft 2 Crops
+* Removido Pam's Harvestcraft 2 Food Core
+* Removido Serene Seasons
+* Removido Enchantment Descriptions (Cliente)
+* Añadido Additional Banners v14.0.1
+* Añadido Advanced Shulkerboxes 1.0.0
+* Añadido Artifacts v7.0.2
+* Añadido Attribute Fix v21.0.1
+* Añadido Bamboo Everything v3.0.1
+* Añadido Bookshelf v20.0.1
+* Añadido Clickable Advancements v3.1
+* Añadido Emotecraft v2.2.7
+* Añadido Farmer's Delight v1.2.2
+* Añadido Gardens of the Dead v4.0.0
+* Añadido Incendium v5.3.1
+* Añadido Inventory Sorter v23.0.1
+* Añadido Iron Chests v14.4.4
+* Añadido L_Ender's Cataclysm v1.25
+* Añadido Let's Do API v1.2.5
+* Añadido Let's Do Bakery v1.1.0
+* Añadido Let's Do Beachparty v1.1.1
+* Añadido Let's Do Candlelight v1.2.1
+* Añadido Let's Do Vinery v1.4.1
+* Añadido Macaw's Bridges (BoP) v1.0
+* Añadido Macaw's Doors v1.1.0
+* Añadido Macaw's Fences (BoP) v1.0
+* Añadido Macaw's Lights and Lamps v1.0.6
+* Añadido Magical Jewelry v1.6.0
+* Añadido Nullscape v1.2.1
+* Añadido Refined Storage v1.12.3
+* Añadido Repurposed Structures v7.0.0
+* Añadido Smarter Farmers v1.7.3
+* Añadido Structory v1.3.2
+* Añadido Structory: Towers v1.0.3
+* Añadido Terralith v2.4.3
+* Añadido The Twilight Forest v4.3.1750
+* Añadido The Undergarden v0.8.7
+* Añadido Bad Wither No Cookie v3.17.0 (Cliente)
+* Actualizado Architectury API v9.1.10 -> v9.1.12
+* Actualizado Bagus Lib v3.1.0 -> v3.3.0
+* Actualizado Creative Core v2.10.31 -> v2.10.32
+* Actualizado Easy Anvils v8.0.0 -> v8.0.1
+* Actualizado Easy Magic v8.0.0 -> v8.0.1
+* Actualizado Falling Tree v4.2.2 -> v4.2.3
+* Actualizado Iceberg v1.1.12 -> v1.1.13
+* Actualizado Modonomicon v1.38.4 -> v1.38.6
+* Actualizado Progressive Bosses v3.9.0 -> v3.9.1
+* Actualizado Puzzles Lib v8.0.7 -> v8.0.12
+* Actualizado Resourceful Lib v2.1.4 -> v2.1.5
+* Actualizado Simply Swords v1.48.1 -> v1.50.1
+* Actualizado Sophisticated Core v0.5.81.378 -> v0.5.82.383
+* Actualizado Theurgy v1.3.8 -> v1.3.10
+* Actualizado Trash Cans v1.0.18
+* Actualizado Jade v11.1.4 -> v11.3.0 (Cliente)
+* Actualizado Xaero's Minimap v23.5.0 -> v23.6.0 (Cliente)
+* Actualizado Xaero's World Map v1.30.6 -> 1.31.0 (Cliente)
+
 ### 2.3.1
 * Actualizado Moonlight Lib v2.6.1 -> v2.7.2
 
