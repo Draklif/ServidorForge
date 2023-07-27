@@ -1,4 +1,4 @@
-# Versión 2.3.1
+# Versión 3.0.0
 Servidor para `Minecraft 1.20.1 - (Forge 47.1.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
