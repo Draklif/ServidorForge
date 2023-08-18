@@ -232,7 +232,7 @@
 		#Increase Elder Guardians' Health by this percentage (1 = +100% health)
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Health Bonus per Difficulty" = 0.5
-		#Adds absorption health to Elder Guradians (health that doesn't regen)
+		#Adds absorption health to Elder Guardians (health that doesn't regen)
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Absorption Health" = 40.0
 		#Health Regen per second

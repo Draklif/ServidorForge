@@ -1,10 +1,12 @@
-# Versión 3.0.0
+# Versión 4.0.0
 Servidor para `Minecraft 1.20.1 - (Forge 47.1.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
 1. Descargar e instalar Forge, teniendo cuidado de seleccionar la versión correspondiente según se indica al inicio de este archivo. 
 
 2. Descargar el repositorio y añadir la carpeta de mods directamente a su carpeta `.minecraft/`. La carpeta de `mods_client` incluye mods adicionales que mejoran la experiencia, pero no son necesarios para jugar.
+
+La carpeta de `config` y los demás archivos en este repositorio pueden ser ignorados, pues son para la configuración del servidor.
 
 Para actualizar de una versión a otra solo hace falta descargar y/o eliminar los mods modificados según el changelog o repetir el paso anterior.
 
@@ -13,6 +15,85 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 4.0.0
+* Removido Hunter Illager
+* Removido Theurgy
+* Añadido Create Additions v1.0.0b
+* Añadido Dragon Mounts v1.1.5-beta3
+* Añadido Voice Chat 2.4.20
+* Actualizado Ad Astra v1.15.2 -> v1.15.3
+* Actualizado Additional Banners v14.0.1 -> v14.0.2
+* Actualizado Additional Lanterns v1.0.4 -> v1.1.1
+* Actualizado Advanced Chimneys v10.1.0.0 -> v10.1.1.0
+* Actualizado Advanced Shulkerboxes v1.0.0 -> v1.0.1
+* Actualizado Almost Unified v0.5.0 -> v0.6.0
+* Actualizado Artifacts v7.0.2 -> v9.0.5
+* Actualizado Bagus Lib v3.3.0 -> v3.4.1
+* Actualizado Balm v7.0.4 -> v7.0.7
+* Actualizado Bamboo Everything v3.0.1 -> v3.0.3
+* Actualizado Better Combat v1.7.2 -> v1.7.3
+* Actualizado Bookshelf v20.0.1 -> v20.0.2
+* Actualizado Botarium v2.1.2 -> v2.2.0
+* Actualizado Camera v1.0.4 -> v1.0.5
+* Actualizado Chimes v2.0.0 -> 2.0.1
+* Actualizado Overhauled Village v3.3.2 -> v3.3.3
+* Actualizado Chunk Loaders v1.2.5 -> v1.2.7
+* Actualizado Connectivity v4.4 -> v4.5
+* Actualizado Creative Core v2.10.32 -> v2.10.34
+* Actualizado Cupboard v1.4 -> v1.7
+* Actualizado Falling Tree v4.2.3 -> v4.3.0
+* Actualizado Farmer's Delight v1.2.2 -> v1.2.3
+* Actualizado Framework v0.6.6 -> v0.6.12
+* Actualizado Gravestone v1.0.3 -> v1.0.5
+* Actualizado GML v4.0.3 -> v4.0.4
+* Actualizado Guard Villagers v1.6.0 -> v1.6.1
+* Actualizado Handcrafted v2.3.2 -> v3.0.1
+* Actualizado Immersive Aircraft v0.5.1 -> v0.5.2
+* Actualizado Iron's Spells 'n Spellbooks v1.1.8 -> v1.2.1
+* Actualizado JEI v15.2.0.23 -> v15.2.0.25
+* Actualizado Kobolds v2.8.6 -> v2.8.10
+* Actualizado Let's Do API v1.2.5 -> v1.26
+* Actualizado Let's Do Bakery v1.1.0 -> v1.1.2
+* Actualizado Let's Do Beachparty v1.1.1 -> v1.1.2b
+* Actualizado Let's Do Candlelight v1.2.1 -> v1.2.4
+* Actualizado Let's Do Vinery v1.4.1 -> v1.4.4
+* Actualizado Login Protection v3.0 -> v3.1
+* Actualizado Majrusz Library v4.3.2 -> 5.0.0
+* Actualizado Majrusz's Accessories v1.2.2 -> 1.2.3
+* Actualizado Majrusz's Enchantments v1.9.0 -> 1.9.1
+* Actualizado Modonomicon v1.38.6 -> 1.39.0
+* Actualizado Moonlight Lib v2.7.2 -> 2.8.3
+* Actualizado MAV Api v1.1.1 -> 1.1.2
+* Actualizado Nullscape v1.2.1 -> 1.2.2
+* Actualizado Puzzles Lib v8.0.12 -> 8.0.24
+* Actualizado L_Ender's Cataclysm v1.25 -> v1.29
+* Actualizado Repurposed Structores v7.0.0 -> v7.1.1
+* Actualizado Resourceful Config v2.0.0 -> v2.1.0
+* Actualizado Resourceful Lib v2.1.5 -> v2.1.9
+* Actualizado Right Click Harvest v3.2.0 -> v3.2.3
+* Actualizado Rubidium v0.6.5 -> v0.7.0a
+* Actualizado Security Craft v1.9.7-beta1 -> v1.9.7-beta2
+* Actualizado Smooth Chunk v3.0 -> v3.1
+* Actualizado Simply Swords v1.50.1 -> v1.51.0
+* Actualizado Sophisticated Core v0.5.82.383 -> v0.5.83.395
+* Actualizado Supplementaries v2.5.21 -> v2.5.26
+* Actualizado The Undergarden v0.8.7 -> v0.8.8
+* Actualizado Wooden Hopper v1.5.1.0 -> v1.6.0.1
+* Removido Oculus (Cliente) *`[Temporalmente]`*
+* Añadido AmbientSound 5 v5.2.22 (Cliente)
+* Actualizado Chat Heads v0.10.18 -> v0.10.20 (Cliente)
+* Actualizado Falling Leaves v2.1.0-beta -> v2.1.0 (Cliente)
+* Actualizado Farsight v3.2 -> v3.3 (Cliente)
+* Actualizado Inventory HUD v3.4.15 -> v3.4.18 (Cliente)
+* Actualizado Jade v11.3.0 -> v11.4.3 (Cliente)
+* Actualizado JER v1.4.0.222 -> v1.4.0.238 (Cliente)
+* Actualizado Reblured v1.3.0 -> 1.3.0 (Cliente)
+* Actualizado Sound Physics v1.1.1 -> v1.1.2 (Cliente)
+* Actualizado Visuality v2.0.1 -> v2.0.2 (Cliente)
+* Actualizado Xaero's Minimap v23.6.0 -> v23.6.1 (Cliente)
+* Actualizado Xaero's World Map v1.31.0 -> 1.32.0 (Cliente)
+* Reiniciado el mundo
 
 ### 3.0.0
 * Removido Pam's Harvestcraft 2 Crops
