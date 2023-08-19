@@ -8,20 +8,7 @@ crash-reports/
 world-debug/
 mod_data/
 schematics/
-
-# World Folders
-world/advancements/
-world/chunkloaders/
-world/data/
-world/DIM-1/
-world/DIM1/
-world/dimensions/
-world/entities/
-world/playerdata/
-world/region/
-world/stats/
-world/*.nbt
-world/camera_images/
+world/
 
 # Compiled class file
 *.class
