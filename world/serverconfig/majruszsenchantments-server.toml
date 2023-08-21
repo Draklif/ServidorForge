@@ -21,6 +21,7 @@
 		#Range: 0.5 ~ 15.0
 		glow_duration = 2.0
 		#Determines which chests should contain this enchantment.
+		#Supports 'regular expressions' when text starts with {regex} prefix.
 		loot_table_ids = ["minecraft:chests/ancient_city", "minecraft:chests/ancient_city_ice_box"]
 
 	#Knocks back mobs when blocking their attack.

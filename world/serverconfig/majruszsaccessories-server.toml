@@ -15,6 +15,7 @@
 		#Range: 0.0 ~ 1.0
 		spawn_chance = 0.15
 		#Determines which chests should contain White Flag.
+		#Supports 'regular expressions' when text starts with {regex} prefix.
 		loot_table_ids = ["minecraft:chests/village/village_weaponsmith", "minecraft:chests/village/village_toolsmith", "minecraft:chests/village/village_armorer", "minecraft:chests/village/village_armorer", "minecraft:chests/village/village_cartographer", "minecraft:chests/village/village_mason", "minecraft:chests/village/village_shepherd", "minecraft:chests/village/village_butcher", "minecraft:chests/village/village_fletcher", "minecraft:chests/village/village_fisher", "minecraft:chests/village/village_tannery", "minecraft:chests/village/village_temple", "minecraft:chests/village/village_desert_house", "minecraft:chests/village/village_plains_house", "minecraft:chests/village/village_taiga_house", "minecraft:chests/village/village_snowy_house", "minecraft:chests/village/village_savanna_house"]
 
 	[Accessories.TamedPotatoBeetle]
@@ -89,7 +90,7 @@
 		trade_price = 7
 		#Chance for Lucky Rock to drop when mining stone.
 		#Range: 0.0 ~ 1.0
-		drop_chance = 2.0E-4
+		drop_chance = 5.0E-4
 
 	[Accessories.IdolOfFertility]
 		#Chance to spawn twins when breeding animals.

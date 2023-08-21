@@ -16,6 +16,11 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
 
+### 4.1.1
+* Añadido Oculus 1.6.4 (Cliente)
+* Actualizado Rubidium v7.0.0a -> v0.6.5
+    * Removido del servidor para ser únicamente cliente
+
 ### 4.1.0
 * Removido More Axolotl Variants
 * Removido More Axolotl Variants Api

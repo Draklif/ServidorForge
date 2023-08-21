@@ -5,12 +5,18 @@
 	rarityConfig = [0.3, 0.25, 0.2, 0.15, 0.1]
 	#Whether or not imbued weapons require mana to be casted. Default: true
 	swordsConsumeMana = true
+	#The multiplier on the cooldown of imbued weapons. Default: 0.5 (50% of default cooldown)
+	swordsCooldownMultiplier = 0.5
 	#Whether or not players can harm their own magic summons. Default: false
 	canAttackOwnSummons = false
 	#The maximum amount of times an applicable piece of equipment can be upgraded in the arcane anvil. Default: 3
 	maxUpgrades = 3
 	#From 0-1, the percent of max mana a player respawns with. Default: 0.0
 	manaSpawnPercent = 0.0
+	#From 0-1, the percent chance for scrolls to be successfully recycled. Default: 0.5 (50%)
+	scrollRecycleChance = 0.5
+	#Whether or not potions should be allowed to be brewed in the alchemist cauldron)
+	allowCauldronBrewing = true
 
 ["Upgrade Overrides"]
 	#Use these lists to change what items can interact with the Arcane Anvil's upgrade system. This can also be done via datapack.
