@@ -75,7 +75,7 @@
         "count": 3,
         "count_range": {
           "min": 2,
-          "max": 100
+          "max": 10
         }
       }
     },
@@ -260,7 +260,7 @@
         "count": 2,
         "count_range": {
           "min": 2,
-          "max": 100
+          "max": 10
         }
       },
       "fish_drop_chance": 0.01,
@@ -392,7 +392,7 @@
         "count": 4,
         "count_range": {
           "min": 2,
-          "max": 100
+          "max": 10
         }
       },
       "trading_discount": {

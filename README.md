@@ -16,6 +16,9 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
 
+### 4.2.1
+* Removido World Edit
+
 ### 4.2.0
 * Añadido Octo Lib v0.1
 * Actualizado Ad Astra v1.15.3 -> v1.15.5
