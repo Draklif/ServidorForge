@@ -42,3 +42,7 @@
 		#Range: 0 ~ 1000
 		consumption = 50
 
+[Vent]
+	#All settings related to the ventilation system are shared between several mods and therefore located in forgeendertech-common.toml
+	"whereAreTheSettings?" = ["I've read the hint and understood"]
+

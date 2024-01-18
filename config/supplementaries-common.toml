@@ -18,6 +18,9 @@
 		#Maximum block range
 		#Range: 0 ~ 100000000
 		range = 64
+		#Max text
+		#Range: 0 ~ 10000
+		max_text = 32
 
 	[redstone.bellows]
 		enabled = true
@@ -58,6 +61,7 @@
 		ticks_to_increase_power = 15
 		#do enderman heads work when looked from any side?
 		work_from_any_side = false
+		drop_head = true
 
 	[redstone.turn_table]
 		enabled = true
@@ -94,6 +98,8 @@
 		slide_on_fall = true
 		#In case you want to disable supplementaries ropes you can specify here another mod rope and they will be used for rope arrows and in mineshafts instead
 		rope_override = "supplementaries:rope"
+		#Enables horizontal placement of ropes
+		horizontal_ropes = true
 
 	[functional.jar]
 		enabled = true
@@ -168,6 +174,13 @@
 		enabled = true
 		#Dyed Bock types that cannot be cleaned with soap
 		clean_blacklist = ["minecraft:glazed_terracotta", "botania:mystical_flower"]
+
+		#This is a map of special blocks that can be cleaned with soap
+		[functional.soap.special_blocks]
+			"minecraft:sticky_piston" = "minecraft:piston"
+			"quark:dirty_glass_pane" = "minecraft:glass_pane"
+			"quark:dirty_glass" = "minecraft:glass"
+			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
 
 	[functional.present]
 		enabled = true
@@ -249,6 +262,8 @@
 		enabled = true
 		#Makes so saplings that grow in a planter will break it turning into rooted dirt
 		broken_by_sapling = true
+		#When Farmers Delight is on planter will also act like rich soil and use it in its recipe
+		rich_soil_planter = true
 
 	[building.notice_board]
 		enabled = true
@@ -307,9 +322,15 @@
 		enabled = true
 		wattle_and_daub = true
 
+	[building.hat_stand]
+		enabled = true
+		#Allow all items to go on hat stand
+		unrestricted = false
+
 [tools]
 	candy = true
 	stasis = true
+	altimeter = true
 
 	[tools.antique_ink]
 		enabled = true
@@ -401,6 +422,22 @@
 		stasis_deceleration = 0.9625
 		#Allow enderman to intercept any slingshot projectile
 		unrestricted_enderman_intercept = true
+		#Allows splash potions to be thrown by slingshots
+		allow_splash_potions = false
+		#Allows bombs to be thrown by slingshots
+		allow_bombs = false
+		#Allows fire charges to be thrown by slingshots
+		allow_fire_charges = false
+		#Allows snowballs to be thrown by slingshots
+		allow_snowballs = false
+		#Allows enderpearls to be thrown by slingshots
+		allow_enderpearls = false
+
+	[tools.slice_map]
+		enabled = true
+		#Multiplier that will be applied by slice maps to lower their range compared to normal maps
+		#Range: 0.0 ~ 1.0
+		range_multiplier = 0.25
 
 #General settings
 [general]
@@ -527,6 +564,13 @@
 		#Miminum search radius for quill. Used to incrase the radius of vanilla searches. For reference buried treasures are at 50 and locate is at 100 chunks
 		#Range: 10 ~ 600
 		min_search_radius = 75
+		#Select a random structure to look for instead of iterating through all of the ones in the tag returning the closest. Turning on will make ones that have diff structures (aka all different ruined portals) show up more. On could take much more time to compute
+		random_adventurer_maps_select_random_structure = true
+		#Shows a death marker on your map when you die. Requires a recovery compass in player inventory or similar
+		#Allowed Values: OFF, WITH_COMPASS, ALWAYS
+		death_marker = "WITH_COMPASS"
+		#Makes blocks tagged as 'tinted_on_map' use their tint color. This allows for accurate biome colors for water and grass as well as other custom block that use any tint
+		tinted_blocks_on_maps = true
 
 	[tweaks.ceiling_banners]
 		#Allow banners to be placed on ceilings
@@ -543,6 +587,8 @@
 		enchanted_book_power = 1.334
 		#Allow all books to be placed both vertically and horizontally
 		mixed_books = false
+		#Allows written books to be placed down. Requires shift clicking
+		written_books = true
 
 	[tweaks.zombie_horse]
 		#Feed a stack of rotten flesh to a skeleton horse to buff him up to a zombie horse
@@ -564,4 +610,11 @@
 		cat_unluck = true
 		#If you have unluck you are more likely to get hit by a lighting
 		lightning_unluck = true
+
+	[tweaks.golden_apple_disenchant]
+		enabled = true
+
+	[tweaks.item_lore]
+		#Adds a recipe to add 'lore' strings to an item by combining it with a named nametag
+		enabled = true
 
