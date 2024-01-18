@@ -9,6 +9,7 @@ world-debug/
 mod_data/
 schematics/
 world/
+emotes/
 
 # Compiled class file
 *.class

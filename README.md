@@ -1,5 +1,5 @@
-# Versión 4.1.0
-Servidor para `Minecraft 1.20.1 - (Forge 47.1.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
+# Versión 4.2.0
+Servidor para `Minecraft 1.20.1 - (Forge 47.2.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
 1. Descargar e instalar Forge, teniendo cuidado de seleccionar la versión correspondiente según se indica al inicio de este archivo. 
@@ -15,6 +15,133 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 4.2.0
+* Añadido Octo Lib v0.1
+* Actualizado Ad Astra v1.15.3 -> v1.15.5
+* Actualizado Additional Banners v14.0.2 -> v14.0.4
+* Actualizado Adorn v5.0.0 -> v5.0.1
+* Actualizado Alex Mobs v1.22.5 -> v1.22.7
+* Actualizado Almost Unified v0.6.0 -> v0.7.2
+* Actualizado AppleSkin v2.5.0 -> v2.5.1
+* Actualizado Aquaculture 2 v2.5.0 -> v2.5.1
+* Actualizado Artifacts v9.0.5 -> v9.2.0
+* Actualizado AttributeFix v21.0.1 -> v21.0.4
+* Actualizado Bagus Lib v3.4.1 -> v4.3.0
+* Actualizado Balm v7.0.7 -> 7.2.1
+* Actualizado Better Combat v1.7.3 -> v1.8.1
+* Actualizado Biome Makeover v1.10.3 -> v1.11.4
+* Actualizado Bookshelf v20.0.2 -> 20.1.8
+* Actualizado Botarium v2.2.0 -> 2.3.1
+* Actualizado Camera v1.0.5 -> v1.0.6
+* Actualizado Charm of Undying v6.4.2 -> v6.4.5
+* Actualizado Ctov v3.3.3 -> v3.3.6
+* Actualizado Chunk Loaders v1.2.7 -> v1.2.8a
+* Actualizado Citadel v2.4.2 -> v2.4.9
+* Actualizado Clickable Advancements v3.1 -> v3.7
+* Actualizado Cloth Config API v11.1.106 -> v11.1.118
+* Actualizado Collective v6.65 -> v7.30
+* Actualizado Comforts v6.3.3 -> v6.3.4
+* Actualizado Connectivity v4.5 -> v4.9
+* Actualizado Create v0.5.1d -> v0.5.1f
+* Actualizado Create Crafts and Additions v1.0.0b -> v1.2.1
+* Actualizado Creative Core v2.10.34 -> v2.11.21
+* Actualizado Cristel Lib v1.1.1 -> v1.1.5
+* Actualizado Culinary Construct v5.2.0 -> v5.2.1
+* Actualizado Cupboard v1.7 -> v2.2
+* Actualizado Curios API v5.2.0b3 -> v5.4.7
+* Actualizado Customizable Elytra v2.1.0 -> 2.1.1
+* Actualizado Death Backup v3.0 -> v3.2
+* Actualizado Entity Culling v1.6.2 -> v1.6.2 
+* Actualizado Explorer's Compass v1.3.2 -> v1.3.3
+* Actualizado Explorify v1.3.0 -> v1.3.0
+* Actualizado Falling Tree v4.3.0 -> v4.3.4
+* Actualizado Forge Endertech v11.1.0.0.0142 -> v11.1.0.1.0289
+* Actualizado Framework v0.6.12 -> v0.6.16
+* Actualizado Friends and Foes v1.9.3 -> v2.0.7
+* Actualizado Gardens of the Dead v4.0.0 -> v4.0.1
+* Actualizado Gecko Lib v4.2.1 -> v4.4
+* Actualizado Gravestone v1.0.5 -> v1.0.10
+* Actualizado Groovy v4.0.4 -> v4.0.9
+* Actualizado Guard Villagers v1.6.1 -> v1.6.3
+* Actualizado Handcrafted v3.0.1 -> v3.0.5
+* Actualizado Healing Campfire v5.1 -> v5.3
+* Actualizado Iceberg v1.1.13 -> v1.1.18
+* Actualizado Immersive Aircraft v0.5.2 -> v0.6.2
+* Actualizado Incendium v5.3.1 -> v5.3.4
+* Actualizado Infinite Trading v4.0 -> v4.3
+* Actualizado Insane Lib v1.10.2 -> v1.12.1
+* Actualizado Iron's Spells 'n Spellbooks v1.2.1 -> v2.2.1
+* Actualizado JEI v15.2.0.25 -> v15.2.0.27
+* Actualizado Kobolds v2.8.10 -> v2.10.2
+* Actualizado Kotlin v4.4.0 -> v4.10.0
+* Actualizado L_Ender's Cataclysm v1.29 -> v1.89
+* Actualizado Let's Do API v1.26 -> v1.2.8
+* Actualizado Let's Do Bakery v1.1.2 -> v1.1.3b
+* Actualizado Let's Do Beachparty v1.1.2b-> v1.1.3
+* Actualizado Let's Do Candlelight v1.2.4 -> v1.2.8
+* Actualizado Let's Do Vinery v1.4.4 -> v1.4.7
+* Actualizado Login Protection v3.1 -> v3.3
+* Actualizado Macaw's Trapdoors v1.1.1 -> v1.1.2
+* Actualizado Majrusz's Library v5.0.0 -> v7.0.3
+* Actualizado Majrusz's Accesories v1.2.3 -> v1.4.0
+* Actualizado Majrusz's Enchantments v1.9.1 -> v1.10.6
+* Actualizado Modonomicon v1.39.0 -> 1.54.4
+* Actualizado Moonlight Lib v2.8.3 -> v2.8.84
+* Actualizado Nature's Compass v1.11.1 -> v1.11.2
+* Actualizado Nether Portal Fix v13.0.0 -> v13.0.1
+* Actualizado Nullscape v1.2.2 -> v1.2.4
+* Actualizado Open Parties and Claims v0.19.3 -> v0.20.4
+* Actualizado Piglin proliferation v1.1.1 -> v1.1.2
+* Actualizado Progressive Bosses v3.9.1 -> v3.9.5
+* Actualizado Puzzles Lib v8.0.24 -> v8.1.13
+* Actualizado Refined Storage v1.12.3 -> v1.12.4
+* Actualizado Relics v0.4.8.3 -> v0.5.2.1
+* Actualizado Repurposed Structures v7.1.1 -> v7.1.11
+* Actualizado Resourceful Config v2.1.0 -> v2.1.2
+* Actualizado Resourceful Lib v2.1.9 -> v2.1.20
+* Actualizado Searchables v1.0.1 -> v1.0.2
+* Actualizado Security Craft v1.9.7b2 -> 1.9.8
+* Actualizado Smooth Chunk v3.1 -> v3.5
+* Actualizado Simple Voice Chat v2.4.20 -> v2.4.32
+* Actualizado Simply Swords v1.51.0 -> v1.51.5
+* Actualizado Sit v1.3.3 -> v1.3.4
+* Actualizado Skin Layers 3D v1.5.4 -> v1.6.2
+* Actualizado Slimy Boyos v7.0.0.1 -> v7.0.0.4
+* Actualizado Smart Brain Lib v1.11 -> v1.13
+* Actualizado Smarter Farmers v1.7.3 -> v1.8.0
+* Actualizado Snow Under Trees v1.4.1 -> v1.4.3
+* Actualizado Sophisticated Backpacks v3.18.56.890 -> v3.19.5.988
+* Actualizado Sophisticated Core v0.5.83.395 -> v0.5.113.524
+* Actualizado Stack Refill v4.0 -> v4.2
+* Actualizado Structory v1.3.2 -> v1.3.4
+* Actualizado Structory: Towers v1.0.3 -> v1.0.6
+* Actualizado SuperMartin642's Config Lib v1.1.7 -> v1.1.8
+* Actualizado SuperMartin642's Core Lib v1.1.12a -> v1.1.16
+* Actualizado Supplementaries v2.5.26 -> v2.7.26
+* Actualizado Terra Blender v3.0.0.169 -> v3.0.1.2
+* Actualizado Terralith v2.4.3 -> v2.4.11
+* Actualizado The Twilight Forest v4.3.1750 ->  v4.3.1893
+* Actualizado The Undergarden v0.8.8 -> v0.8.9
+* Actualizado Towns and Towers v1.11 -> v1.12
+* Actualizado Trash Cans v1.0.18a -> v1.0.18b
+* Actualizado Trenzalore v3.0.1 -> 3.3.10
+* Actualizado Twigs v3.1.0 -> v3.1.0
+* Actualizado Waystones v14.0.1 -> v14.1.3
+* Actualizado XP Tome v2.1.7 -> v2.2
+* Actualizado Weapon Master v3.0.5 -> v4.2.3
+* Removido Rubidium (Cliente)
+* Añadido Embeddium v0.2.18 (Cliente)
+* Actualizado AmbientSound 5 v5.2.22 -> v5.3.5 (Cliente)
+* Actualizado Better F3 v7.0.1 -> v7.0.2 (Cliente)
+* Actualizado Chat Heads v0.10.20 -> v0.10.30 (Cliente)
+* Actualizado Farsight v3.3 -> v3.6 (Cliente)
+* Actualizado Jade v11.4.3 -> v11.7.1 (Cliente)
+* Actualizado Midnight Lib v1.4.1 -> 1.4.2 (Cliente)
+* Actualizado Not Enough Animations v1.6.4 -> v1.7.0 (Cliente)
+* Actualizado Oculus v1.6.4 -> v1.6.13 (Cliente)
+* Actualizado Xaero's Minimap v23.6.1 -> (Cliente)
+* Actualizado Xaero's World Map v1.32.0 -> (Cliente)
 
 ### 4.1.1
 * Añadido Oculus 1.6.4 (Cliente)
