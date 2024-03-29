@@ -16,6 +16,89 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
 
+### 4.3.0
+* Añadido Amendments v1.1.11
+* Añadido Yung's API v4.0.4
+* Añadido Yung's Better Mineshafts v4.0.4
+* Actualizado Advanced Chimneys v10.1.4.0 -> v10.1.5.1
+* Actualizado Alex's Mobs v1.22.7 -> v1.22.8
+* Actualizado Almost Unified v0.7.2 -> v0.9.2
+* Actualizado Architectury API v9.1.12 -> v9.2.14
+* Actualizado Artifacts v9.2.0 -> v9.3.0
+* Actualizado Bagus Lib v4.3.0 -> v4.5.4
+* Actualizado Balm v7.2.1 -> v7.2.2
+* Actualizado Better Combat v1.8.1 -> v1.8.4
+* Actualizado Bookshelf v20.1.8 -> v20.1.9
+* Actualizado Botarium v2.3.1 -> v2.3.3
+* Actualizado Charm of Undying v6.4.5 -> v6.5.0
+* Actualizado Citadel v2.4.9 -> v2.5.4
+* Actualizado Collective v7.30 -> v7.40
+* Actualizado Comforts v6.3.4 -> v6.3.5
+* Actualizado Connectivity v4.9 -> v5.5
+* Actualizado Create Crafts and Additions v1.2.1 -> v1.2.3
+* Actualizado Creative Core v2.11.21 -> v2.11.25
+* Actualizado Cupboard v2.2 -> v2.6
+* Actualizado Curios API v5.4.7 -> v5.7.2
+* Actualizado Death Backup v3.2 -> v3.3
+* Actualizado Dustrial Decor v1.3.4 -> v1.3.5
+* Actualizado Easy Anvils v8.0.1 -> v8.0.2
+* Actualizado End Remastered v5.2.3 -> v5.2.3R
+* Actualizado Farmer's Delight v1.2.3 -> v1.2.4
+* Actualizado Forge Endertech v11.1.0.1 -> v11.1.2.0
+* Actualizado Framework v0.6.16 -> v0.6.27
+* Actualizado Friends and Foes v2.0.7 -> v2.0.10
+* Actualizado Gecko Lib v4.4 -> v4.4.4
+* Actualizado Gravestone v1.0.10 -> v1.0.15
+* Actualizado Guard Villagers v1.6.3 -> v1.6.4
+* Actualizado Handcrafted v3.0.5 -> v3.0.6
+* Actualizado Iceberg v1.1.18 -> v1.1.21
+* Actualizado Immersive Aircraft v0.6.2 -> v0.7.5
+* Actualizado Insane Lib v1.12.1 -> v1.13.2
+* Actualizado Iron's Spells 'n Spellbooks v2.2.1 -> v3.1.1
+* Actualizado Just Enough Items v15.2.0.27 -> v15.3.0.4
+* Actualizado Kobolds v2.10.2 -> v2.10.7
+* Actualizado L_Ender's Cataclysm v1.89 -> v1.90
+* Actualizado Let's Do API v1.2.8 -> v1.2.9
+* Actualizado Let's Do Bakery v1.1.3b -> v1.1.7
+* Actualizado Let's Do Beachparty v1.1.3-> v1.1.4
+* Actualizado Let's Do Candlelight v1.2.8 -> v1.2.10
+* Actualizado Let's Do Vinery v1.4.7 -> v1.4.13
+* Actualizado Lootr v0.7.30.73 -> v0.7.33.82
+* Actualizado Macaw's Fences and Walls v1.0.7 -> v1.1.1
+* Actualizado Majrusz's Library v7.0.3 -> v7.0.5
+* Actualizado Majrusz's Accesories v1.4.0 -> v1.5.2
+* Actualizado Majrusz's Enchantments v1.10.6 -> v1.10.7
+* Actualizado Modonomicon v1.54.4 -> 1.64.0
+* Actualizado Moonlight Lib v2.8.84 -> v2.11.9
+* Actualizado OctoLib v0.1 -> v0.3
+* Actualizado Overhauled Village v3.3.6 -> v3.4.2
+* Actualizado Puzzles Lib v8.1.13 -> v8.1.18
+* Actualizado Relics v0.5.2.1 -> v0.6.3
+* Actualizado Repurposed Structures v7.1.11 -> v7.1.13
+* Actualizado Resourceful Lib v2.1.20 -> v2.1.24
+* Actualizado Security Craft v1.9.8 -> 1.9.9
+* Actualizado Smooth Chunk v3.5 -> v3.6
+* Actualizado Simple Voice Chat v2.4.32 -> v2.5.10
+* Actualizado Simply Swords v1.51.5 -> v1.54.0
+* Actualizado Smarter Farmers v1.8.0 -> v1.8.3
+* Actualizado Sophisticated Backpacks v3.19.5.988 -> v3.20.3.1034
+* Actualizado Sophisticated Core v0.5.113.524 -> v0.6.12.589
+* Actualizado SuperMartin642's Core Lib v1.1.16 -> v1.1.17
+* Actualizado Supplementaries v2.7.26 -> v2.8.7
+* Actualizado Terra Blender v3.0.1.2 -> v3.0.1.4
+* Actualizado The Graveyard v2.4.11 -> v3.1
+* Actualizado The Twilight Forest v4.3.1893 ->  v4.3.2145
+* Actualizado The Undergarden v0.8.9 -> v0.8.14
+* Actualizado Trading Post v8.0.1 -> v8.0.2
+* Actualizado Ambient Sounds 5 v5.3.5 -> v5.3.9 (Cliente)
+* Actualizado Chat Heads v0.10.30 -> v0.10.32 (Cliente)
+* Actualizado Embeddium v0.2.18 -> v0.3.11 (Cliente)
+* Actualizado Just Enough Resources v1.4.0.238 -> v1.4.0.247 (Cliente)
+* Actualizado Not Enough Animations v1.7.0 -> v1.7.1 (Cliente)
+* Actualizado Oculus v1.6.13 -> v1.6.15a (Cliente)
+* Actualizado Xaero's Minimap v23.9.3 -> v24.0.3 (Cliente)
+* Actualizado Xaero's World Map v1.37.2 -> v1.38.1 (Cliente)
+
 ### 4.2.1
 * Removido World Edit
 
@@ -38,7 +121,6 @@ En esta sección se encontrarán los cambios por versión.
 * Actualizado Botarium v2.2.0 -> 2.3.1
 * Actualizado Camera v1.0.5 -> v1.0.6
 * Actualizado Charm of Undying v6.4.2 -> v6.4.5
-* Actualizado Ctov v3.3.3 -> v3.3.6
 * Actualizado Chunk Loaders v1.2.7 -> v1.2.8a
 * Actualizado Citadel v2.4.2 -> v2.4.9
 * Actualizado Clickable Advancements v3.1 -> v3.7
@@ -75,7 +157,7 @@ En esta sección se encontrarán los cambios por versión.
 * Actualizado Infinite Trading v4.0 -> v4.3
 * Actualizado Insane Lib v1.10.2 -> v1.12.1
 * Actualizado Iron's Spells 'n Spellbooks v1.2.1 -> v2.2.1
-* Actualizado JEI v15.2.0.25 -> v15.2.0.27
+* Actualizado Just Enough Items v15.2.0.25 -> v15.2.0.27
 * Actualizado Kobolds v2.8.10 -> v2.10.2
 * Actualizado Kotlin v4.4.0 -> v4.10.0
 * Actualizado L_Ender's Cataclysm v1.29 -> v1.89
@@ -95,6 +177,7 @@ En esta sección se encontrarán los cambios por versión.
 * Actualizado Nether Portal Fix v13.0.0 -> v13.0.1
 * Actualizado Nullscape v1.2.2 -> v1.2.4
 * Actualizado Open Parties and Claims v0.19.3 -> v0.20.4
+* Actualizado Overhauled Village v3.3.3 -> v3.3.6
 * Actualizado Piglin proliferation v1.1.1 -> v1.1.2
 * Actualizado Progressive Bosses v3.9.1 -> v3.9.5
 * Actualizado Puzzles Lib v8.0.24 -> v8.1.13
@@ -135,7 +218,7 @@ En esta sección se encontrarán los cambios por versión.
 * Actualizado Weapon Master v3.0.5 -> v4.2.3
 * Removido Rubidium (Cliente)
 * Añadido Embeddium v0.2.18 (Cliente)
-* Actualizado AmbientSound 5 v5.2.22 -> v5.3.5 (Cliente)
+* Actualizado Ambient Sounds 5 v5.2.22 -> v5.3.5 (Cliente)
 * Actualizado Better F3 v7.0.1 -> v7.0.2 (Cliente)
 * Actualizado Chat Heads v0.10.20 -> v0.10.30 (Cliente)
 * Actualizado Farsight v3.3 -> v3.6 (Cliente)
@@ -143,8 +226,8 @@ En esta sección se encontrarán los cambios por versión.
 * Actualizado Midnight Lib v1.4.1 -> 1.4.2 (Cliente)
 * Actualizado Not Enough Animations v1.6.4 -> v1.7.0 (Cliente)
 * Actualizado Oculus v1.6.4 -> v1.6.13 (Cliente)
-* Actualizado Xaero's Minimap v23.6.1 -> (Cliente)
-* Actualizado Xaero's World Map v1.32.0 -> (Cliente)
+* Actualizado Xaero's Minimap v23.6.1 -> v23.9.3 (Cliente)
+* Actualizado Xaero's World Map v1.32.0 -> v1.37.2 (Cliente)
 
 ### 4.1.1
 * Añadido Oculus 1.6.4 (Cliente)
@@ -220,7 +303,7 @@ En esta sección se encontrarán los cambios por versión.
 * Actualizado The Undergarden v0.8.7 -> v0.8.8
 * Actualizado Wooden Hopper v1.5.1.0 -> v1.6.0.1
 * Removido Oculus (Cliente) *`[Temporalmente]`*
-* Añadido AmbientSound 5 v5.2.22 (Cliente)
+* Añadido Ambient Sounds 5 v5.2.22 (Cliente)
 * Actualizado Chat Heads v0.10.18 -> v0.10.20 (Cliente)
 * Actualizado Falling Leaves v2.1.0-beta -> v2.1.0 (Cliente)
 * Actualizado Farsight v3.2 -> v3.3 (Cliente)

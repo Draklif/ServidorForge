@@ -8,19 +8,23 @@
 	gold_door = true
 	gold_trapdoor = true
 	lock_block = true
-	crystal_display = true
 	relayer = true
+
+	[redstone.crystal_display]
+		enabled = true
+		#Allows chaining 2 crystal displays, letting one power the other to its left IF its own power exceeds 10. Given power will be its own divided by 10. Note that to work the decimal display must NOT have power directly behind it. Doing so will override the behavior to non chaining mode
+		chaining = true
 
 	[redstone.speaker_block]
 		enabled = true
 		#Enable/disable speaker block narrator mode
 		narrator_enabled = true
-		#Maximum block range
-		#Range: 0 ~ 100000000
-		range = 64
 		#Max text
 		#Range: 0 ~ 10000
 		max_text = 32
+		#Maximum block range
+		#Range: 0 ~ 100000000
+		range = 64
 
 	[redstone.bellows]
 		enabled = true
@@ -56,23 +60,25 @@
 
 	[redstone.enderman_head]
 		enabled = true
+		drop_head = true
 		#Time to increase 1 power level when being looked at
 		#Range: 0 ~ 10000
 		ticks_to_increase_power = 15
 		#do enderman heads work when looked from any side?
 		work_from_any_side = false
-		drop_head = true
 
 	[redstone.turn_table]
 		enabled = true
 		#can rotate entities standing on it?
 		rotate_entities = true
+		#Allows turn table to shuffle containers content when rotated over horizontal axis
+		shuffle_containers = true
 
 	[redstone.pulley_block]
 		enabled = true
 		#Chance for a new mineshaft elevator piece to spawn
 		#Range: 0.0 ~ 1.0
-		mineshaft_elevator = 0.02
+		mineshaft_elevator = 0.035
 
 	[redstone.dispenser_minecart]
 		enabled = true
@@ -91,6 +97,7 @@
 	hourglass = true
 
 	[functional.rope]
+		#So you came here to disable supp rope not because they are bad but because they are the easiest to disable, despite them doing all the stuff other ropes can do. Well too bad, this config doesnt do anything :P. Learn how to use datapacks to disable stuff, like its normally done
 		enabled = true
 		#Allows ropes to be supported & attached to solid block sides
 		block_side_attachment = true
@@ -173,7 +180,7 @@
 	[functional.soap]
 		enabled = true
 		#Dyed Bock types that cannot be cleaned with soap
-		clean_blacklist = ["minecraft:glazed_terracotta", "botania:mystical_flower"]
+		clean_blacklist = ["minecraft:glazed_terracotta", "botania:mystical_flower", "mna:chimerite_crystal", "botania:floating_flower", ",minecraft:mushroom", "botania:mushroom", "botania:tall_mystical_flower", "botania:petal_block", "morered:network_cable", "xycraft_world:glowing_shiny_aurey_block", "xycraft_world:shiny_aurey_block", "xycraft_world:rgb_lamp", "xycraft_world:glowing_rgb_viewer", "xycraft_world:glowing_matte_rgb_block", "xycraft_world:rgb_lamp_pole"]
 
 		#This is a map of special blocks that can be cleaned with soap
 		[functional.soap.special_blocks]
@@ -189,12 +196,6 @@
 	[functional.flax]
 		enabled = true
 		wild_flax = true
-		#How many trades to give to wandering trader
-		#Range: 0 ~ 10
-		wandering_trader_trades = 2
-		#How many trades to give to farmers
-		#Range: 0 ~ 10
-		farmer_trades = 1
 
 [building]
 	lapis_bricks = true
@@ -206,7 +207,6 @@
 	blackstone_tile = true
 	sconce = true
 	sconce_lever = true
-	sconce_green = false
 	pancake = true
 	netherite_door = true
 	netherite_trapdoor = true
@@ -218,10 +218,6 @@
 	doormat = true
 	flint_block = true
 	candle_holder = true
-
-	[building.ash_bricks]
-		enabled = true
-		mason_trades = true
 
 	[building.blackboard]
 		enabled = true
@@ -282,12 +278,12 @@
 		enabled = true
 		#Burnable blocks will have a chance to create ash layers when burned
 		ash_from_fire = true
+		#Burning mobs will drop ash when they die
+		ash_from_burning_mobs = true
 		#Allows rain to wash away ash layers overtime
 		rain_wash_ash = true
 		#Use a datapack to tweak rarity
 		basalt_ash = true
-		#Burning mobs will drop ash when they die
-		ash_from_burning_mobs = true
 
 	[building.flag]
 		enabled = true
@@ -305,9 +301,6 @@
 	[building.globe]
 		enabled = true
 		sepia_globe = true
-		#How many globe trades to give to the wandering trader. This will effectively increase the chance of him having a globe trader. Increase this if you have other mods that add stuff to that trader
-		#Range: 0 ~ 50
-		wandering_trader_trades = 2
 
 	[building.sign_post]
 		enabled = true
@@ -322,6 +315,9 @@
 		enabled = true
 		wattle_and_daub = true
 
+	[building.ash_bricks]
+		enabled = true
+
 	[building.hat_stand]
 		enabled = true
 		#Allow all items to go on hat stand
@@ -332,10 +328,6 @@
 	stasis = true
 	altimeter = true
 
-	[tools.antique_ink]
-		enabled = true
-		cartographer_trades = true
-
 	[tools.quiver]
 		enabled = true
 		#Allows using a quiver without being slowed down
@@ -343,13 +335,19 @@
 		#Arrow stacks that can fit inside a quiver. Requires reboot
 		#Range: 1 ~ 9
 		slots = 6
+		#Increase this number to alter the probability for a Skeleton with quiver to spawn. Note that this also depends on local difficulty so you wont ever see them on easy and very rarely on normal. Similar logic to equipment
+		#Range: 0.0 ~ 1.0
+		quiver_skeleton_spawn_chance = 0.03
 		#Allows quiver to only be used when in offhand or in curio slot
 		only_works_in_curio = false
 		#Arrows you pickup will try to go in a quiver if available provided it has some arrow of the same type
 		quiver_pickup = true
-		#Increase this number to alter the probability for a Skeleton with quiver to spawn. Note that this also depends on local difficulty so you wont ever see them on easy and very rarely on normal. Similar logic to equipment
+
+	[tools.slice_map]
+		enabled = true
+		#Multiplier that will be applied by slice maps to lower their range compared to normal maps
 		#Range: 0.0 ~ 1.0
-		quiver_skeleton_spawn_chance = 0.03
+		range_multiplier = 0.25
 
 	[tools.bubble_blower]
 		enabled = true
@@ -433,11 +431,8 @@
 		#Allows enderpearls to be thrown by slingshots
 		allow_enderpearls = false
 
-	[tools.slice_map]
+	[tools.antique_ink]
 		enabled = true
-		#Multiplier that will be applied by slice maps to lower their range compared to normal maps
-		#Range: 0.0 ~ 1.0
-		range_multiplier = 0.25
 
 #General settings
 [general]
@@ -462,9 +457,8 @@
 		#Allows wearing shulker shells
 		enabled = true
 
-	[tweaks.dye_blocks]
-		#Allows using dye on blocks just like with soap
-		enabled = false
+	[tweaks.golden_apple_disenchant]
+		enabled = true
 
 	[tweaks.traders_open_doors]
 		#Allows traders to open doors (because they couldnt aparently)
@@ -476,45 +470,9 @@
 		#Enables shooting ender pearls with dispensers
 		shoot_ender_pearls = true
 
-	[tweaks.cake_tweaks]
-		#Allows you to place a cake on top of another
-		double_cake = true
-		#Allows eating a cake from every side
-		directional_cake = true
-
-	[tweaks.mob_head_tweaks]
-		#Allows you to place two mob heads on top of each other
-		skull_piles = true
-		#Allows candles to be placed on top of skulls
-		skull_candles = true
-		#Allows placing more than one candle ontop of each skull
-		multiple_candles = true
-
-	[tweaks.hanging_flower_pots]
-		#allows you to place hanging flower pots. Works with any modded pot too
-		enabled = true
-
 	[tweaks.throwable_bricks]
 		#Throw bricks at your foes! Might break glass blocks
 		enabled = true
-
-	[tweaks.lantern_tweaks]
-		#Allow wall lanterns placement
-		enabled = true
-		#Gives high priority to wall lantern placement. Enable to override other wall lanterns placements, disable if it causes issues with other mods that use lower priority block click events
-		high_priority = true
-		#Mod ids of mods that have lantern block that extend the base lantern class but don't look like one
-		mod_blacklist = ["extlights", "betterendforge", "tconstruct", "enigmaticlegacy"]
-		#Allows ceiling lanterns to fall if their support is broken.Additionally if they fall from high enough they will break creating a fire where they land
-		#Allowed Values: ON, OFF, NO_FIRE
-		falling_lanterns = "ON"
-
-	[tweaks.bells_tweaks]
-		#Ring a bell by clicking on a chain that's connected to it
-		chain_ringing = true
-		#Max chain length that allows a bell to ring
-		#Range: 0 ~ 256
-		chain_length = 16
 
 	[tweaks.placeable_sticks]
 		#Allow placeable sticks
@@ -549,34 +507,26 @@
 		#Cartographers will sell 'adventurer maps' that will lead to a random vanilla structure (choosen from a thought out preset list).
 		#Best kept disabled if you are adding custom adventurer maps with datapack (check the wiki for more)
 		random_adventurer_maps = true
+		#Select a random structure to look for instead of iterating through all of the ones in the tag returning the closest. Turning on will make ones that have diff structures (aka all different ruined portals) show up more. On could take much more time to compute
+		random_adventurer_maps_select_random_structure = true
 		#Enables beacons, lodestones, respawn anchors, beds, conduits, portals to be displayed on maps by clicking one of them with a map
 		block_map_markers = true
+		#Shows a death marker on your map when you die. Requires a recovery compass in player inventory or similar
+		#Allowed Values: OFF, WITH_COMPASS, ALWAYS
+		death_marker = "WITH_COMPASS"
 		#If Quark is installed adventurer maps will be replaced by adventurer quills. These will not lag the server when generating
 		quill_adventurer_maps = true
 		#If Quark is installed replaces buried treasure and mansion maps with their equivalent quill form. This removes the lag spike they create when generating
 		quill_vanilla_maps = true
-		#These maps will roll a difference structure every time. Increase their price to balance them
-		#Range: 1.0 ~ 10.0
-		map_trade_price_multiplier = 2.0
-		#These maps will roll a difference structure every time. Decrease their max trades to balance them
-		#Range: 1 ~ 12
-		map_trade_max_trades = 2
 		#Miminum search radius for quill. Used to incrase the radius of vanilla searches. For reference buried treasures are at 50 and locate is at 100 chunks
 		#Range: 10 ~ 600
 		min_search_radius = 75
-		#Select a random structure to look for instead of iterating through all of the ones in the tag returning the closest. Turning on will make ones that have diff structures (aka all different ruined portals) show up more. On could take much more time to compute
-		random_adventurer_maps_select_random_structure = true
-		#Shows a death marker on your map when you die. Requires a recovery compass in player inventory or similar
-		#Allowed Values: OFF, WITH_COMPASS, ALWAYS
-		death_marker = "WITH_COMPASS"
 		#Makes blocks tagged as 'tinted_on_map' use their tint color. This allows for accurate biome colors for water and grass as well as other custom block that use any tint
 		tinted_blocks_on_maps = true
 
-	[tweaks.ceiling_banners]
-		#Allow banners to be placed on ceilings
-		enabled = true
-
 	[tweaks.placeable_books]
+		#Allows written books to be placed down. Requires shift clicking
+		written_books = true
 		#Allow books and enchanted books to be placed on the ground
 		enabled = true
 		#Enchantment power bonus given by normal book piles with 4 books. Piles with less books will have their respective fraction of this total. For reference a vanilla bookshelf provides 1
@@ -587,8 +537,6 @@
 		enchanted_book_power = 1.334
 		#Allow all books to be placed both vertically and horizontally
 		mixed_books = false
-		#Allows written books to be placed down. Requires shift clicking
-		written_books = true
 
 	[tweaks.zombie_horse]
 		#Feed a stack of rotten flesh to a skeleton horse to buff him up to a zombie horse
@@ -610,9 +558,6 @@
 		cat_unluck = true
 		#If you have unluck you are more likely to get hit by a lighting
 		lightning_unluck = true
-
-	[tweaks.golden_apple_disenchant]
-		enabled = true
 
 	[tweaks.item_lore]
 		#Adds a recipe to add 'lore' strings to an item by combining it with a named nametag
