@@ -10,6 +10,7 @@ mod_data/
 schematics/
 world/
 emotes/
+modernfix/
 
 # Compiled class file
 *.class
