@@ -103,3 +103,14 @@ A continuación se listan todos los mods de API / Liberías en el pack, junto co
     * Biomes O' Plenty
         * Macaw's Bridges - Biomes O' Plenty
         * Macaw's Fences - Biomes O' Plenty
+* Yung's API
+    * Yung's Better Desert Temples
+    * Yung's Better Dungeons
+    * Yung's Better End Island
+    * Yung's Better Jungle Temples
+    * Yung's Better Mineshafts
+    * Yung's Better Nether Fortresses
+    * Yung's Better Ocean Monuments
+    * Yung's Better Witch Huts
+    * Yung's Bridges
+    * Yung's Extras

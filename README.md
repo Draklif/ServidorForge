@@ -1,4 +1,4 @@
-# Versión 4.3.1
+# Versión 4.4.0
 Servidor para `Minecraft 1.20.1 - (Forge 47.2.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
@@ -16,17 +16,53 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
 
+### 4.4.0
+**Removidos**
+* Removido Simple Voice Chat
+
+**Añadidos**
+* Añadido Apotheosis v7.3.4
+* Añadido Create Steam n' Rails v1.5.3
+* Añadido Eidolon Repraised v0.3.8.8b
+* Añadido Enigmatic Legacy v2.29.0
+* Añadido Ferrite Core v6.0.1
+* Añadido Let's Do Brewery v1.1.5
+* Añadido Let's Do Herbal Brews v1.0.6
+* Añadido Let's Do Nether Vinery v1.2.9
+* Añadido The Aether v1.3.1
+
+**Actualizados**
+* Actualizado Let's Do Bakery v1.1.7-> v1.1.8
+* Actualizado Let's Do Vinery v1.4.13 -> v1.4.14
+
+**APIs / Librerías**
+* Añadido Apothic Attributes v1.3.4 (API/Lib)
+* Añadido Lithostitched v1.1.5 (API/Lib)
+* Añadido Patchouli v84 (API/Lib)
+* Añadido Placebo v8.6.1 (API/Lib)
+
+**Servidor**
+* Añadido Yung's Better Desert Temples v3.0.3 (Servidor)
+* Añadido Yung's Better Dungeons v4.0.3 (Servidor)
+* Añadido Yung's Better End Island v2.0.6 (Servidor)
+* Añadido Yung's Better Jungle Temples v2.0.4 (Servidor)
+* Añadido Yung's Better Nether Fortresses v2.0.6 (Servidor)
+* Añadido Yung's Better Ocean Monuments v3.0.4 (Servidor)
+* Añadido Yung's Better Witch Huts v3.0.3 (Servidor)
+* Añadido Yung's Bridges v4.0.3 (Servidor)
+* Añadido Yung's Extras v4.0.3 (Servidor)
+
 ### 4.3.1
 **Novedades**
 * Añadida lista de dependencias en DEPENDENCIES.md
 * Reestructuración de Changelog
     * Ahora cada versión tiene una categoría para las novedades, los añadidos, los actualizados, los removidos, los mods de APIs y/o librerías, los mods de cliente, los mods de servidor y los cambios en las configuraciones
 * Mods de servidor: Pueden ser removidos de la carpeta tras instalar
-    * Añadido Yung's API v4.0.4 (API/Lib)
-    * Añadido Yung's Better Mineshafts v4.0.4
-    * Movido Login Protection v3.3
-    * Movido Overhauled Village v3.4.2
-    * Movido Smooth Chunk v3.6
+    * Añadido Yung's API v4.0.4 (API/Lib) (Servidor)
+    * Añadido Yung's Better Mineshafts v4.0.4 (Servidor)
+    * Movido Login Protection v3.3 (Servidor)
+    * Movido Overhauled Village v3.4.2 (Servidor)
+    * Movido Smooth Chunk v3.6 (Servidor)
 
 ### 4.3.0
 **Añadidos**
