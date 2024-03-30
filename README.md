@@ -1,4 +1,4 @@
-# Versión 4.4.0
+# Versión 4.5.0
 Servidor para `Minecraft 1.20.1 - (Forge 47.2.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
@@ -15,6 +15,35 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 4.5.0
+**Novedades**
+* Los mods de Yung son de servidor, pero hay un error que puede ocasionar un fallo de memoria. Se recomienda tenerlos instalados en el cliente de todas formas
+
+**Removidos**
+* Removido Easy Magic
+* Removido Gravestone
+* Removido Lapis Reserve
+
+**Añadidos**
+* Añadido Better Archeology v1.1.7
+* Añadido Curse Of The Warden v1.0.0
+* Añadido Deep Aether v1.0.2
+* Añadido Deep Dark Regrowth v1.2.5.1
+* Añadido Deeper Darker v1.2.1
+* Añadido Modern Fix v5.15.0
+* Añadido More Axolotl Variants v1.2.4
+* Añadido More Mob Variants v1.2.2
+* Añadido Night Lights v1.1
+* Añadido Warden Horn v1.9
+
+**APIs / Librerías**
+* Añadido Aeroblender v1.0.1 (API/Lib)
+* Añadido More Axolotl Variants Api v1.1.3 (API/Lib)
+
+**Cliente**
+* Añadido Enchantment Descriptions v17.0.14 (Cliente)
+
 
 ### 4.4.0
 **Removidos**
@@ -56,7 +85,7 @@ En esta sección se encontrarán los cambios por versión.
 **Novedades**
 * Añadida lista de dependencias en DEPENDENCIES.md
 * Reestructuración de Changelog
-    * Ahora cada versión tiene una categoría para las novedades, los añadidos, los actualizados, los removidos, los mods de APIs y/o librerías, los mods de cliente, los mods de servidor y los cambios en las configuraciones
+    * Ahora cada versión tiene una categoría para las novedades, los removidos, los añadidos, los actualizados, los mods de APIs y/o librerías, los mods de cliente, los mods de servidor y los cambios en las configuraciones
 * Mods de servidor: Pueden ser removidos de la carpeta tras instalar
     * Añadido Yung's API v4.0.4 (API/Lib) (Servidor)
     * Añadido Yung's Better Mineshafts v4.0.4 (Servidor)

@@ -1,6 +1,8 @@
 # Versión 4.3.0
 A continuación se listan todos los mods de API / Liberías en el pack, junto con sus dependientes, si los tiene. 
 
+* Aeroblender
+    * Deeper Aether
 * Let's Do API
     * Let's Do Bakery
     * Let's Do Beachparty
@@ -62,6 +64,7 @@ A continuación se listan todos los mods de API / Liberías en el pack, junto co
 * Gecko Lib
     * Iron's Spells 'n Spellbooks
     * The Graveyard
+    * Deeper Aether
 * Groovy Mod Loader
     * Eating Animation
 * Iceberg
@@ -81,7 +84,6 @@ A continuación se listan todos los mods de API / Liberías en el pack, junto co
     * Relics
 * Puzzles Lib
     * Easy Anvils
-    * Easy Magic
     * Pick Up Notifier
     * Trading Post
     * Visual Workbench
@@ -114,3 +116,5 @@ A continuación se listan todos los mods de API / Liberías en el pack, junto co
     * Yung's Better Witch Huts
     * Yung's Bridges
     * Yung's Extras
+* More Axolotl Variants Api
+    * More Axolotl Variants
