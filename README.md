@@ -1,4 +1,4 @@
-# Versión 4.5.1
+# Versión 4.6.0
 Servidor para `Minecraft 1.20.1 - (Forge 47.2.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
@@ -15,6 +15,27 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 4.6.0
+**Novedades**
+* El Entity Model Features y el Entity Texture Features son opcionales pero altamente recomendados para funcionar correctamente con el pack de recursos del servidor
+* More Music Discs debe descargarse directamente de la fuenta
+
+**Añadidos**
+* Añadido Armor Poser v2.1.3
+* Añadido Born in Chaos v1.2
+* Añadido Crawl on Demand v1.0.0
+* Añadido Cursery v4.2
+* Añadido Female Gender v3.0.1
+* Añadido [More Music Discs v33] (https://www.curseforge.com/minecraft/mc-mods/more-mc-music-discs)
+* Añadido Neruina v1.3.0
+* Añadido Skinned Lanterns v1.3.5
+* Añadido Tinted Campfires v1.2.10
+
+**Cliente**
+* Añadido Drip Sounds v0.3.2 (Cliente)
+* Añadido Entity Model Features v1.3 (Cliente)
+* Añadido Entity Texture Features v5.2.3 (Cliente)
 
 ### 4.5.1
 **Novedades**
@@ -50,7 +71,6 @@ En esta sección se encontrarán los cambios por versión.
 
 **Cliente**
 * Añadido Enchantment Descriptions v17.0.14 (Cliente)
-
 
 ### 4.4.0
 **Removidos**
