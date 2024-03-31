@@ -1,4 +1,4 @@
-# Versión 4.5.0
+# Versión 4.5.1
 Servidor para `Minecraft 1.20.1 - (Forge 47.2.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
@@ -16,12 +16,19 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
 
+### 4.5.1
+**Novedades**
+* Reiniciada la configuración de los mods
+* Movido Neat a mods de cliente
+
+**Removidos**
+* Removido Easy Magic
+
 ### 4.5.0
 **Novedades**
 * Los mods de Yung son de servidor, pero hay un error que puede ocasionar un fallo de memoria. Se recomienda tenerlos instalados en el cliente de todas formas
 
 **Removidos**
-* Removido Easy Magic
 * Removido Gravestone
 * Removido Lapis Reserve
 
