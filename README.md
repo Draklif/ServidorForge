@@ -1,4 +1,4 @@
-# Versión 4.6.0
+# Versión 4.7.0
 Servidor para `Minecraft 1.20.1 - (Forge 47.2.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
@@ -16,10 +16,19 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
 
+### 4.7.0
+**Novedades**
+* Reiniciado el mundo
+
+**Removidos**
+* More Music Discs
+
+**Añadidos**
+* Añadido Yung's Better Strongholds v4.0.3
+
 ### 4.6.0
 **Novedades**
 * El Entity Model Features y el Entity Texture Features son opcionales pero altamente recomendados para funcionar correctamente con el pack de recursos del servidor
-* More Music Discs debe descargarse directamente de la fuenta
 
 **Añadidos**
 * Añadido Armor Poser v2.1.3
@@ -27,7 +36,7 @@ En esta sección se encontrarán los cambios por versión.
 * Añadido Crawl on Demand v1.0.0
 * Añadido Cursery v4.2
 * Añadido Female Gender v3.0.1
-* Añadido [More Music Discs v33] (https://www.curseforge.com/minecraft/mc-mods/more-mc-music-discs)
+* Añadido More Music Discs v33
 * Añadido Neruina v1.3.0
 * Añadido Skinned Lanterns v1.3.5
 * Añadido Tinted Campfires v1.2.10
@@ -55,7 +64,7 @@ En esta sección se encontrarán los cambios por versión.
 
 **Añadidos**
 * Añadido Better Archeology v1.1.7
-* Añadido Curse Of The Warden v1.0.0
+* Añadido Curse of the Warden v1.0.0
 * Añadido Deep Aether v1.0.2
 * Añadido Deep Dark Regrowth v1.2.5.1
 * Añadido Deeper Darker v1.2.1
@@ -127,7 +136,6 @@ En esta sección se encontrarán los cambios por versión.
 **Actualizados**
 * Actualizado Advanced Chimneys v10.1.4.0 -> v10.1.5.1
 * Actualizado Alex's Mobs v1.22.7 -> v1.22.8
-* Actualizado Artifacts v9.2.0 -> v9.3.0
 * Actualizado Better Combat v1.8.1 -> v1.8.4
 * Actualizado Charm of Undying v6.4.5 -> v6.5.0
 * Actualizado Comforts v6.3.4 -> v6.3.5
@@ -220,7 +228,7 @@ En esta sección se encontrarán los cambios por versión.
 * Actualizado Additional Banners v14.0.2 -> v14.0.4
 * Actualizado Adorn v5.0.0 -> v5.0.1
 * Actualizado Alex Mobs v1.22.5 -> v1.22.7
-* Actualizado AppleSkin v2.5.0 -> v2.5.1
+* Actualizado Appleskin v2.5.0 -> v2.5.1
 * Actualizado Aquaculture 2 v2.5.0 -> v2.5.1
 * Actualizado Artifacts v9.0.5 -> v9.2.0
 * Actualizado AttributeFix v21.0.1 -> v21.0.4
@@ -391,7 +399,7 @@ En esta sección se encontrarán los cambios por versión.
 * Actualizado Handcrafted v2.3.2 -> v3.0.1
 * Actualizado Immersive Aircraft v0.5.1 -> v0.5.2
 * Actualizado Iron's Spells 'n Spellbooks v1.1.8 -> v1.2.1
-* Actualizado JEI v15.2.0.23 -> v15.2.0.25
+* Actualizado Just Enough Items v15.2.0.23 -> v15.2.0.25
 * Actualizado Kobolds v2.8.6 -> v2.8.10
 * Actualizado Let's Do Bakery v1.1.0 -> v1.1.2
 * Actualizado Let's Do Beachparty v1.1.1 -> v1.1.2b
@@ -472,7 +480,7 @@ En esta sección se encontrarán los cambios por versión.
 * Añadido Let's Do Beachparty v1.1.1
 * Añadido Let's Do Candlelight v1.2.1
 * Añadido Let's Do Vinery v1.4.1
-* Añadido Macaw's Bridges (BoP) v1.0
+* Añadido Macaw's Bridges (BoP) v1.1
 * Añadido Macaw's Doors v1.1.0
 * Añadido Macaw's Fences (BoP) v1.0
 * Añadido Macaw's Lights and Lamps v1.0.6
@@ -651,7 +659,7 @@ En esta sección se encontrarán los cambios por versión.
 * Actualizado Supplementaries v.2.5.15 -> v2.5.18
 
 **APIs / Librerías**
-* Añadido Obscure v1-API15 (API/Lib)
+* Añadido Obscure API v1-API15 (API/Lib)
 * Actualizado Connectivity v4.2 -> v4.4 (API/Lib)
 * Actualizado Creative Core v2.10.25 -> v2.10.26 (API/Lib)
 * Actualizado Gecko Lib v4.2 -> v.4.2.1 (API/Lib)
