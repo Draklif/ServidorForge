@@ -16,6 +16,10 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
 
+### 4.8.1
+**Novedades**
+* Reiniciado el mundo
+
 ### 4.8.0
 **Removidos**
 * Removido Better Archeology
