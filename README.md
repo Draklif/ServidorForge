@@ -1,4 +1,4 @@
-# Versión 4.7.0
+# Versión 4.8.0
 Servidor para `Minecraft 1.20.1 - (Forge 47.2.0)`. En este repositorio se incluyen los mods, el ejecutable del servidor y las configuraciones. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
@@ -15,6 +15,23 @@ En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 4.8.0
+**Removidos**
+* Removido Yung's Better Desert Temples
+* Removido Yung's Better Dungeons
+* Removido Yung's Better End Island
+* Removido Yung's Better Jungle Temples
+* Removido Yung's Better Mineshafts
+* Removido Yung's Better Nether Fortresses
+* Removido Yung's Better Ocean Monuments
+* Removido Yung's Better Strongholds
+* Removido Yung's Better Witch Huts
+* Removido Yung's Bridges
+* Removido Yung's Extras
+
+**APIs / Librerías**
+* Removido Yung's API
 
 ### 4.7.0
 **Novedades**

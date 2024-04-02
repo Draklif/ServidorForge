@@ -1,4 +1,4 @@
-# Versión 4.7.0
+# Versión 4.8.0
 A continuación se listan todos los mods de API / Liberías en el pack, junto con sus dependientes, si los tiene. 
 
 * Aeroblender
@@ -105,17 +105,5 @@ A continuación se listan todos los mods de API / Liberías en el pack, junto co
     * Biomes O' Plenty
         * Macaw's Bridges - Biomes O' Plenty
         * Macaw's Fences - Biomes O' Plenty
-* Yung's API
-    * Yung's Better Desert Temples
-    * Yung's Better Dungeons
-    * Yung's Better End Island
-    * Yung's Better Jungle Temples
-    * Yung's Better Mineshafts
-    * Yung's Better Nether Fortresses
-    * Yung's Better Ocean Monuments
-    * Yung's Better Strongholds
-    * Yung's Better Witch Huts
-    * Yung's Bridges
-    * Yung's Extras
 * More Axolotl Variants Api
     * More Axolotl Variants

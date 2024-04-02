@@ -1,4 +1,4 @@
-# Versión 4.7.0
+# Versión 4.8.0
 **Servidor**
 * Security Craft v1.9.9
 * Ad Astra v1.15.5
@@ -154,17 +154,6 @@
 * Weapon Mastery v4.2.3
 * Wooden Hopper v1.6.0.1
 * Xp Tome v2.2
-* Yung's Better Desert Temples v3.0.3
-* Yung's Better Dungeons v4.0.3
-* Yung's Better End Island v2.0.6
-* Yung's Better Jungle Temples v2.0.4
-* Yung's Better Mineshafts v4.0.4
-* Yung's Better Nether Fortresses v2.0.6
-* Yung's Better Ocean Monuments v3.0.4
-* Yung's Better Strongholds v4.0.3
-* Yung's Better Witch Huts v3.0.3
-* Yung's Bridges v4.0.3
-* Yung's Extras v4.0.3
 
 **Cliente**
 * Ambient Sounds 5 v5.3.9
