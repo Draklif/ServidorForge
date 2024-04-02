@@ -18,6 +18,7 @@ En esta sección se encontrarán los cambios por versión.
 
 ### 4.8.0
 **Removidos**
+* Removido Better Archeology
 * Removido Yung's Better Desert Temples
 * Removido Yung's Better Dungeons
 * Removido Yung's Better End Island
