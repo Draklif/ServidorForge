@@ -1,13 +1,9 @@
-# Versión 4.8.0
+# Versión 5.0.0
+## Dependencies
 A continuación se listan todos los mods de API / Liberías en el pack, junto con sus dependientes, si los tiene. 
 
 * Aeroblender
     * Deeper Aether
-* Let's Do API
-    * Let's Do Bakery
-    * Let's Do Beachparty
-    * Let's Do Candlelight
-    * Let's Do Vinery
 * Architectury API
     * Animal Feeding Trough
     * Artifacts
@@ -28,11 +24,13 @@ A continuación se listan todos los mods de API / Liberías en el pack, junto co
     * Nether Portal Fix
     * Supplementaries
         * Amendments
-    * Waystones
 * Bookshelf
     * Additional Banners
 * Botarium
     * Ad AStra
+* Caelus
+    * Enigmatic Legacy
+    * Elytra Slot
 * Citadel
     * Alex's Mobs
     * L_Ender's Cataclysm
@@ -82,6 +80,9 @@ A continuación se listan todos los mods de API / Liberías en el pack, junto co
     * Aquamirae
 * OctoLib
     * Relics
+* Placebo
+    * Apotheosis
+        * Apothic Attributes
 * Puzzles Lib
     * Easy Anvils
     * Pick Up Notifier
@@ -91,8 +92,12 @@ A continuación se listan todos los mods de API / Liberías en el pack, junto co
     * Ad Astra
     * Advanced Chimneys
     * Handcrafted
-* Sophisticated Core
-    * Sophisticated Backpacks
+* Spartan Weaponry Addon Toolkit
+    * Spartan Weaponry
+        * Spartan Weaponry: Aether
+        * Spartan Weaponry: Ice and Fire
+        * Spartan Weaponry: Twilight Forest
+        * Spartan Weaponry: Undergarden
 * SuperMartin642's Config Lib
     * Additional Lanterns
     * Chunk Loaders
