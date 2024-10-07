@@ -1,4 +1,4 @@
-# Versión 5.1.0
+# Versión 5.1.1
 ## Modlist
 **Servidor**
 * Security Craft v1.9.11
@@ -36,7 +36,6 @@
 * Camera v1.0.14
 * Charm of Undying v6.5.0
 * Chimes v2.0.1
-* Chunk Loaders v1.2.8a
 * Clickable Advancements v3.8
 * Clumps v12.0.0.4
 * Comforts v6.4.0
