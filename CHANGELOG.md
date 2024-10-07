@@ -1,9 +1,26 @@
-# Versión 5.0.0
+# Versión 5.1.0
 ## Changelog
 En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 5.1.0
+**Novedades**
+* Reiniciado el mundo 
+
+**Removidos**
+* Removido Overhauled Village
+
+**Añadidos**
+* Añadido Aether Delight v1.0.0
+* Añadido Aquaculture Delight v1.0.0
+* Añadido Alex's Delight v1.5
+* Añadido Astikor Carts v1.1.8
+* Añadido Critters and Companions v2.1.7
+* Añadido Sanity v1.1.0
+* Añadido Serene Seasons v9.0.0.46
+* Añadido Undergarden Delight v1.0.0
 
 ### 5.0.0
 **Novedades**
