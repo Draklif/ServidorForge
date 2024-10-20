@@ -1,4 +1,4 @@
-# Versión 5.1.1
+# Versión 5.1.2
 ## Modlist
 **Servidor**
 * Security Craft v1.9.11
@@ -132,7 +132,6 @@
 * Repurposed Structures v7.1.15
 * Revamped Wolf v6.0.0
 * Right Click Harvest v3.2.3
-* Sanity v1.1.0
 * Searchables v1.0.3
 * Serene Seasons v9.0.0.46
 * Server Tab Info v1.3.8
