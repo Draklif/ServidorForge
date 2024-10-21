@@ -1,4 +1,4 @@
-# Versión 5.1.2
+# Versión 5.1.3
 ## Modlist
 **Servidor**
 * Security Craft v1.9.11
@@ -133,7 +133,6 @@
 * Revamped Wolf v6.0.0
 * Right Click Harvest v3.2.3
 * Searchables v1.0.3
-* Serene Seasons v9.0.0.46
 * Server Tab Info v1.3.8
 * Advanced Shulkerboxes v1.0.1
 * Simply Swords v1.56.0
