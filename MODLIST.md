@@ -1,4 +1,4 @@
-# Versión 5.1.3
+# Versión 5.1.4
 ## Modlist
 **Servidor**
 * Security Craft v1.9.11
@@ -89,7 +89,6 @@
 * Just Enough Items v15.20.0.102
 * Kobolds v2.12.0
 * L_Ender's Cataclysm v2.05
-* Legendary Survival Overhaul v1.4.11
 * Let's Do Bakery v1.1.15
 * Let's Do Beachparty v1.1.5
 * Let's Do Brewery v1.1.9

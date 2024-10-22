@@ -1,9 +1,27 @@
-# Versión 5.1.3
+# Versión 5.1.4
 ## Changelog
 En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 5.1.4
+**Novedades**
+* Cambios a los dragones
+    * Reducido el área de caza de los dragones (128 -> 64)
+    * Los dragones ahora solo rompen bloques débiles
+* Cambios a los aviones
+    * Aumentado el daño por impacto (2 -> 20)
+    * Aumentado el radio de la explosión por impacto (2 -> 8)
+    * Aumentado el consumo de combustible (1.0 -> 1.5)
+    * Aumentada la turbulencia en tormenta (3 -> 5)
+* Cambios varios
+    * Reducido el tiempo de regeneración de los campamentos para prevenir abuso en combate (60 -> 5)
+    * La brújula de exploración y bioma ya no muestra coordenadas
+    * Ahora se pueden talar árboles de hasta 500 bloques
+
+**Removidos**
+* Removido Legendary Survival Overhaul
 
 ### 5.1.3
 **Novedades**
