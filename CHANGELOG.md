@@ -1,9 +1,52 @@
-# Versión 5.1.4
+# Versión 5.1.5
 ## Changelog
 En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 5.1.5
+**Novedades**
+* Cambios al Apotheosis
+    * Recoger spawners gasta más durabilidad del pico (100 -> 1000)
+    * Los enemigos al azar no pueden tener items con afijos
+    * Los enemigos al azar ya no sueltan gemas
+    * Reducida la posibilidad de obtener gemas de boss (0.33 -> 0.1)
+    * Reducida la posibilidad de obtener afijos en cofres (0.35 -> 0.12)
+    * Reducida la posibilidad de obtener gemas en cofres (0.25 -> 0.07)
+    * Aumentado el cooldown de spawn de bosses con afijos (3600 -> 7200)
+    * Los charms de las pociones ahora solo pueden usarse como curios
+    * El wandering trader ya no aparece bajo tierra
+    * Las flechas explosivas ya no destruyen bloques
+    * La caña de azucar ahora solo crece hasta un máximo de 32
+* Cambios de enemigos
+    * Los dragones ahora ya no destruyen bloques
+    * Las serpientes marinas ya no destruyen bloques
+    * Aumentada la vida máxima de las serpientes marinas (20 -> 50)
+    * Aumentada la vida máxima de la Madre del Laberinto (100 -> 200)
+    * Aumentada la vida máxima de Umvuthi (150 -> 300)
+    * Aumentada la vida máxima del Void Worm (160 -> 320)
+    * Aumentada la vida máxima de las anguilas (180 -> 360)
+    * Aumentada la vida máxima del Frostmaw (250 -> 500)
+    * Aumentada la vida máxima del Ender Guardian (333 -> 500)
+    * Aumentada la vida máxima del Harbinger (390 -> 585)
+    * Aumentada la vida máxima del Leviathan (400 -> 600)
+    * Aumentada la vida máxima de Maledictus (420 -> 630)
+    * Aumentada la vida máxima del Ancient Remnant (450 -> 675)
+    * Aumentada la vida máxima de Ignis (450 -> 675)
+    * Aumentada la vida máxima de la Netherite Monstruosity (500 -> 750)
+    * Aumentada la vida máxima del Campeón Corrupto (400 -> 800)
+* Cambios varios
+    * Las vacas ya no pueden dar Everlasting Beef
+    * Removido el encantamiento de Dodge
+    * Reducido el máximo de vida por contenedores de vida (20 -> 10)
+    * Los orbes espirituales ya no se generan en cofres
+    * Aumentado el tamaño de las maletas (9 -> 20)
+    * Reducida la posibilidad de obtener maldiciones encantando (0.05 -> 0.01)
+
+**Removidos**
+* Removido Progressive Bosses
+* Removido Revamped Wolf
 
 ### 5.1.4
 **Novedades**

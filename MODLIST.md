@@ -1,4 +1,4 @@
-# Versión 5.1.4
+# Versión 5.1.5
 ## Modlist
 **Servidor**
 * Security Craft v1.9.11
@@ -124,12 +124,10 @@
 * Paraglider v20.1.3
 * Pick Up Notifier v8.0.0
 * Piglin Proliferation v1.2.5
-* Progressive Bosses v3.9.7
 * Refined Storage v1.12.4
 * Relics v0.8.0.7
 * Refurbished Furniture v1.0.6
 * Repurposed Structures v7.1.15
-* Revamped Wolf v6.0.0
 * Right Click Harvest v3.2.3
 * Searchables v1.0.3
 * Server Tab Info v1.3.8
