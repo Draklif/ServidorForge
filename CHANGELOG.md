@@ -1,9 +1,65 @@
-# Versión 5.1.5
+# Versión 5.1.6
 ## Changelog
 En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 5.1.6
+**Novedades**
+* Cambios de enemigos
+    * Aumentada la vida máxima de la Lantern (4 -> 8)
+    * Aumentada la vida máxima de los Death Worms (10 -> 30)
+    * Aumentada la vida máxima de las Foliaath (10 -> 30)
+    * Aumentada la vida máxima de los Umvuthana (12 -> 36)
+    * Aumentada la vida máxima del Grottol (20 -> 40)
+    * Aumentada la vida máxima del Maw (20 -> 60)
+    * Aumentada la vida máxima de las Serpientes Marinas (50 -> 60)
+    * Aumentada la vida máxima de las Nagas (30 -> 90)
+    * Aumentada la vida máxima del Tortured Soul (30 -> 90)
+    * Aumentada la vida máxima del Anglerfish (40 -> 120)
+    * Aumentada la vida máxima del Ferrous Wroughtnaut (40 -> 400)
+    * Aumentada la vida máxima del Wadjet (150 -> 750)
+    * Aumentada la vida máxima del Aptgangr (160 -> 800)
+    * Aumentada la vida máxima del Kobolediator (180 -> 900)
+    * Aumentada la vida máxima de las Anguilas (360 -> 900)
+    * Aumentada la vida máxima de la Madre del Laberinto (200 -> 1000)
+    * Aumentada la vida máxima de las Hidras (250 -> 1500)
+    * Aumentada la vida máxima de los Dragones (500 -> 1500)
+    * Aumentada la vida máxima de Umvuthi (300 -> 1800)
+    * Aumentada la vida máxima de la Capitana Cornelia (200 -> 2400)
+    * Aumentada la vida máxima del Frostmaw (500 -> 2500)
+    * Aumentada la vida máxima del Void Worm (320 -> 3200)
+    * Aumentada la vida máxima del Ender Guardian (500 -> 3330)
+    * Aumentada la vida máxima del Harbinger (585 -> 3900)
+    * Aumentada la vida máxima del Leviathan (600 -> 4000)
+    * Aumentada la vida máxima de Maledictus (630 -> 4200)
+    * Aumentada la vida máxima del Ancient Remnant (675 -> 4500)
+    * Aumentada la vida máxima de Ignis (675 -> 4500)
+    * Aumentada la vida máxima del Campeón Corrupto (800 -> 4800)
+    * Aumentada la vida máxima de la Netherite Monstruosity (750 -> 5000)
+    * Aumentado el daño del Ender Golem (1 -> 2)
+    * Aumentado el daño de los Death Worms (1 -> 3)
+    * Aumentado el daño de las Foliaath (1 -> 3)
+    * Aumentado el daño del Ferrous Wroughtnaut (1 -> 5)
+    * Aumentado el daño del Wadjet (1 -> 3)
+    * Aumentado el daño del Aptgangr (1 -> 3)
+    * Aumentado el daño de las Anguilas (1 -> 2)
+    * Aumentado el daño del Kobolediator (1 -> 3)
+    * Aumentado el daño de la Madre del Laberinto (1 -> 2)
+    * Aumentado el daño de Unvuthi (1 -> 3)
+    * Aumentado el daño de la Capitana Cornelia (1 -> 3)
+    * Aumentado el daño del Frostmaw (1 -> 3)
+    * Aumentado el daño del Void Worm (1 -> 3)
+    * Aumentado el daño del Ender Guardian (1 -> 2)
+    * Aumentado el daño del Harbinger (1 -> 3)
+    * Aumentado el daño de Maledictus (1 -> 3)
+    * Aumentado el daño del Ancient Remnant (1 -> 3)
+    * Aumentado el daño de Ignis (1 -> 3)
+    * Aumentado el daño del Corrupted Champion (1 -> 1.5)
+    * Aumentado el daño de la Netherite Monstruosity (1 -> 3)
+* Cambios varios
+    * Reducida la probabilidad de generar campamentos (4 -> 2)
 
 ### 5.1.5
 **Novedades**
