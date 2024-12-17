@@ -1,9 +1,34 @@
-# Versión 5.1.6
+# Versión 5.2.0
 ## Changelog
 En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 5.2.0
+**Removidos**
+* Removido Apotheosis
+* Removido Magical Jewelry
+
+**Añadidos**
+* Añadido Create Connected v0.9.2
+* Añadido Decorative Blocks v4.1.3
+* Añadido Decorative Winter v3.0.0
+* Añadido Medieval Buildings v1.0.2
+* Añadido Medieval Buildings (End) v1.0.1
+* Añadido Medieval Decoration v2.0
+* Añadido Medieval Paintings v7.0
+* Añadido Serene Seasons v9.1.0.0
+* Añadido Serene Seasons Fix v1.1.0.1
+
+**Actualizados**
+* Actualizado Create v0.5.1h -> v0.5.1
+* Actualizado Create Steam n' Rails v1.6.5 -> v1.6.7
+
+**APIs / Librerías**
+* Removido Apothic Attributes (API/Lib)
+* Añadido Glitch Core v0.0.1.1 (API/Lib)
+* Añadido I'm Fast v1.0.2 (API/Lib)
 
 ### 5.1.6
 **Novedades**

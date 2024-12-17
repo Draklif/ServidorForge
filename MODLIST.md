@@ -1,4 +1,4 @@
-# Versión 5.1.6
+# Versión 5.2.0
 ## Modlist
 **Servidor**
 * Security Craft v1.9.11
@@ -17,7 +17,6 @@
 * Aquaculture Delight v1.0.0
 * Amendments v1.1.11
 * Animal Feeding Trough v1.0.3
-* Apotheosis v7.4.3
 * Appleskin v1.3.4
 * Aquaculture v2.5.1
 * Aquamirae v6
@@ -41,9 +40,10 @@
 * Comforts v6.4.0
 * Cosmetic Armor v1
 * Crawl on Demand v1.0.0
-* Create v0.5.1h
+* Create v0.5.1
+* Create Connected v0.9.2
 * Create Crafts and Additions v1.2.4
-* Create Steam n' Rails v1.6.5
+* Create Steam n' Rails v1.6.7
 * Critters and Companions v2.1.7
 * Crock Pot v1.0.4
 * Culinary Construct v5.2.1
@@ -52,6 +52,8 @@
 * Customizable Elytra v2.1.2
 * Dangerous Stone Cutter v1.8.0
 * Death Backup v3.4
+* Decorative Blocks v4.1.3
+* Decorative Winter v3.0.0
 * Deep Dark Regrowth v1.2.6.1
 * Deep Aether v1.0.4
 * Deeper Darker v1.3.2
@@ -106,9 +108,12 @@
 * Macaw's Fences v1.1.2
 * Macaw's Lights v1.1.0
 * Macaw's Trapdoors v1.1.3
-* Magical Jewelry v1.6.0
 * Majrusz's Accesories v1.5.3
 * Majrusz's Enchantments v1.10.8
+* Medieval Buildings v1.0.2
+* Medieval Buildings (End) v1.0.1
+* Medieval Decoration v2.0
+* Medieval Paintings v7.0
 * More Axolotl Variants v1.2.6
 * More Mob Variants v1.3.0.1
 * Modernfix v5.19.4
@@ -131,6 +136,8 @@
 * Right Click Harvest v3.2.3
 * Searchables v1.0.3
 * Server Tab Info v1.3.8
+* Serene Seasons v9.1.0.0
+* Serene Seasons Fix v1.1.0.1
 * Advanced Shulkerboxes v1.0.1
 * Simply Swords v1.56.0
 * Sit v1.3.5
@@ -208,7 +215,6 @@
 
 **APIs / Librerías**
 * Aeroblender (API/Lib)
-* Apothic Attributes (API/Lib)
 * Architectury API (API/Lib)
 * Bagus Lib (API/Lib)
 * Balm (API/Lib)
@@ -226,8 +232,10 @@
 * Forge Endertech (API/Lib)
 * Framework (API/Lib)
 * Gecko Lib (API/Lib)
+* Glitch Core (API/Lib)
 * Groovy Mod Loader (API/Lib)
 * Iceberg (API/Lib)
+* I'm Fast (API/Lib)
 * Insane Lib (API/Lib)
 * Kambrik (API/Lib)
 * Kotlin (API/Lib)

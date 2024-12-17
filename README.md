@@ -1,5 +1,5 @@
-# Versión 5.1.6
-Servidor para `Minecraft 1.20.1 - (Forge 47.2.0)`. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
+# Versión 5.2.0
+Servidor para `Minecraft 1.20.1 - (Forge 47.3.12)`. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación
 1. Descargar e instalar Forge, teniendo cuidado de seleccionar la versión correspondiente según se indica al inicio de este archivo. 
