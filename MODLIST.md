@@ -1,4 +1,4 @@
-# Versión 5.2.0
+# Versión 5.2.1
 ## Modlist
 **Servidor**
 * Security Craft v1.9.11
