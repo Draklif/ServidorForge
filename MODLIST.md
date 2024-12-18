@@ -1,4 +1,4 @@
-# Versión 5.2.1
+# Versión 5.2.2
 ## Modlist
 **Servidor**
 * Security Craft v1.9.11
@@ -145,7 +145,6 @@
 * Slimy Boyos v7.0.0.4
 * Smarter Farmers v2.1.0
 * Smooth Chunks v3.6
-* Snow Under Trees v1.4.4
 * Snuffles v1.0.7
 * Spartan Shields v3.1.1
 * Spartan Weaponry v3.1.3
