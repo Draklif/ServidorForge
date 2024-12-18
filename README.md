@@ -1,4 +1,4 @@
-# Versión 5.2.2
+# Versión 5.3.0
 Servidor para `Minecraft 1.20.1 - (Forge 47.3.12)`. Para un jugador, solo se necesita descargar la carpeta de `mods` y, de manera opcional, la carpeta de `mods_client`.
 
 ## Instalación

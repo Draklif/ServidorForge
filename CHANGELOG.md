@@ -1,9 +1,90 @@
-# Versión 5.2.2
+# Versión 5.3.0
 ## Changelog
 En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 5.3.0
+**Novedades**
+* Reiniciada la dimensión del End
+
+**Removidos**
+* Removido Nullscape
+
+**Añadidos**
+* Añadido Beautify v2.0.2
+* Añadido Cluttered v2.1
+* Añadido Enderman Overhaul v1.0.4
+* Añadido Ender's Delight v1.0.3
+* Añadido Ender Trigon v1.1
+* Añadido End's Delight v2.4
+* Añadido Lucky's Cozy Home v3.0.4
+* Añadido MDM v2.1.13
+* Añadido Moog's End Structures v1.3.4
+* Añadido Pot Leaves v1.0.6
+* Añadido Re:Deco v1.13
+* Añadido Savage Ender Dragon v4.6
+* Añadido Tanuki Decor v20.1.1.0
+* Añadido The Outer End v1.0.10
+* Añadido Yung's Better End Island v2.0.6
+
+**Actualizados**
+* Actualizado Ad Astra v1.15.18 -> v1.15.19
+* Actualizado Amendments v1.1.11 -> v1.1.12
+* Actualizado Aquaculture v2.5.2 -> v2.5.3
+* Actualizado Armor Poser v2.2.1 -> v2.2.2
+* Actualizado Born In Chaos v1.3.1 -> v1.5.2
+* Actualizado Camera v1.0.14 -> v1.0.19
+* Actualizado Critters and Companions v2.1.7 -> v2.2.2
+* Actualizado Deeper Darker v1.3.2 -> v1.3.3
+* Actualizado Eidolon Repraised v0.3.8.13 -> v0.3.8.15
+* Actualizado Entity Culling v1.7.0 -> v1.7.2
+* Actualizado Farmer's Delight v1.2.4 -> v1.2.6
+* Actualizado Friends and Foes v3.0.3 -> v3.0.6
+* Actualizado Immersive Aircraft v1.1.2 -> v1.1.5
+* Actualizado Iron's Spells 'n Spellbooks v3.4.0.2 -> v3.4.0.5
+* Actualizado Just Enough Items v15.20.0.102 -> v15.20.0.105
+* Actualizado L_Ender's Cataclysm v2.05 -> v2.27
+* Actualizado Let's Do Nether Vinery v1.2.14 -> v1.2.16
+* Actualizado Let's Do Vinery v1.4.28 -> v1.4.34
+* Actualizado Lootr v0.7.34.89 -> v0.7.35.90
+* Actualizado Macaw's Trapdoors v1.1.3 -> v1.1.4
+* Actualizado Modern Fix v5.19.4 -> v5.19.7
+* Actualizado Refurbished Furniture v1.0.6 -> v1.0.8
+* Actualizado Security Craft v1.9.11 -> v1.9.12
+* Actualizado Smooth Chunk v3.6 -> v3.8
+* Actualizado Supplementaries v2.8.17 -> v3.1.11
+* Actualizado The Aether v1.5.0 -> v1.5.1
+
+**APIs / Librerías**
+* Añadido Blueprint v7.1.0 (API/Lib)
+* Añadido Yung's API v4.0.6 (API/Lib)
+* Actualizado Balm v7.3.9 -> v7.3.10 (API/Lib)
+* Actualizado Collective v7.84 -> v7.87 (API/Lib)
+* Actualizado Connectivity v5.6 -> v6.1 (API/Lib)
+* Actualizado Creative Core v2.12.17 -> v2.12.27 (API/Lib)
+* Actualizado Cristel Lib v1.1.5 -> v1.1.6 (API/Lib)
+* Actualizado Curios API v5.10.0 -> v5.11.0 (API/Lib)
+* Actualizado Forge Endertech v11.1.4.0 -> v11.1.5.0 (API/Lib)
+* Actualizado Framework v0.7.8 -> v0.7.12 (API/Lib)
+* Actualizado Iceberg v1.1.21 -> v1.1.25 (API/Lib)
+* Actualizado IChunUtil v1.0.0 -> v1.0.3 (API/Lib)
+* Actualizado Insane Lib v1.15.0 -> v1.15.1 (API/Lib)
+* Actualizado Lionfish API v1.9 -> v2.4 (API/Lib)
+* Actualizado Lithostitched v1.3.1a -> v1.3.9 (API/Lib)
+* Actualizado Moonlight Lib v2.13.3 -> v2.13.40 (API/Lib)
+* Actualizado Puzzles Lib v8.1.24 -> v8.1.25 (API/Lib)
+
+**Cliente**
+* Actualizado Ambient Sounds 6 v6.1.1 -> v6.1.4 (Cliente)
+* Actualizado Bad Wither No Cookie v3.17.0 -> v3.17.2 (Cliente)
+* Actualizado Chat Heads v0.10.32 -> v0.13.7 (Cliente)
+* Actualizado Entity Model Features v2.2.6 -> v2.4.1 (Cliente)
+* Actualizado Entity Texture Features v6.2.5 -> v6.2.9 (Cliente)
+* Actualizado Not Enough Animations v1.7.6 -> v1.8.2 (Cliente)
+* Actualizado Skin Layers 3D v1.6.7 -> v1.7.4 (Cliente)
+* Actualizado Sound Physics v1.4.5 -> v1.4.8 (Cliente)
 
 ### 5.2.2
 **Removidos**
