@@ -1,6 +1,6 @@
-# Versión 5.3.0
+# Versión 5.3.1
 ## Modlist
-**Servidor**
+### Servidor
 * Security Craft v1.9.12
 * Aether Delight v1.0.0
 * Ad Astra v1.15.19
@@ -190,7 +190,7 @@
 * XP Tome v2.2.1
 * Yung's Better End Island v2.0.6
 
-**Cliente**
+### Cliente
 * Ambient Sounds 5 v6.1.4
 * Better Advancements v0.4.2.10
 * Better F3 v7.0.2
@@ -226,7 +226,7 @@
 * Visuality v2.0.2
 * Visual Overhaul v5.0.1
 
-**APIs / Librerías**
+### APIs / Librerías
 * Aeroblender (API/Lib)
 * Architectury API (API/Lib)
 * Bagus Lib (API/Lib)
