@@ -1,9 +1,178 @@
-# Versión 5.3.1
+# Versión 6.0.0
 ## Changelog
 En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 6.0.0
+**Novedades**
+* Cambios de enemigos
+    * Ajustada la vida de todos los enemigos nuevos posibles
+    * Balanceada la progresión
+* Cambios al sistema de estamina y vida
+    * Vida inicial reducida a 5 corazones
+    * Correr y nadar ahora consume estamina
+    * Usar el paraglider no debería gastar tanta energía
+    * Las corrientes de viento elevan al jugador
+
+**Añadidos**
+* Añadido Aether Ancient v0.9.10
+* Añadido Aether Enhanced Extinguishing v1.0.0
+* Añadido Aether Lost Content v1.2.3
+* Añadido Aether Protect Your Moa v1.0.0
+* Añadido Aether Redux v2.0.19
+* Añadido Aether Villages v1.0.7
+* Añadido Alex's Caves v2.0.2
+* Añadido Alex's Mobs - Naturalist Compat v1.0
+* Añadido Blue Skies v1.3.31
+* Añadido Bumblezone v7.8.0
+* Añadido Call of Yucatán v1.0.13
+* Añadido Chalk v1.6.6
+* Añadido Chunky v1.3.146
+* Añadido Create Numismatics v1.0.15
+* Añadido Creeper Overhaul v3.0.2
+* Añadido Difficult Spawners v1.1.0
+* Añadido Exposure v1.7.16
+* Añadido Ghost v1.1.0
+* Añadido Grand Capitals v1.1.1
+* Añadido Hamsters Plus v1.0.3
+* Añadido Horse Combat Controls v1.0.2
+* Añadido Horse Expert v8.1.1
+* Añadido Legendary Creatures v1.0.18
+* Añadido Legendary Monsters v1.9.7
+* Añadido Macaw's Paintings v1.0.5
+* Añadido Majrusz's Progressive Difficulty v1.9.10
+* Añadido Majrusz's Progressive Difficulty Born in Chaos v1.0.1
+* Añadido Mowzie's Cataclysm v1.2.0
+* Añadido Mowzie's Mobs Respawner v1.1.0
+* Añadido Naturalist v5.0pre2
+* Añadido Naturalist Delight v0.2
+* Añadido Overflowing Bars v8.0.1
+* Añadido Plushie Mod v1.4.0
+* Añadido Ribbits v3.0.4
+* Añadido Ribbits Guards v1.0.7
+* Añadido Spark v1.10.53
+* Añadido Spice of Life: Apple Pie v2.3.0
+* Añadido Stardew Fishing v2.3
+* Añadido Tameable Beasts v6.2
+* Añadido Towers of the Wild v1.0.6
+* Añadido Yung's Better Mineshafts v4.0.4
+* Añadido Yung's Cave Biomes v2.0.5
+
+**Removidos**
+* Removido Ad Astra
+* Removido Animal Feeding Trough
+* Removido Camera
+* Removido Create Steam n' Rails
+* Removido Dragon Mounts
+* Removido Ender Trigon
+* Removido Forgiving Void
+* Removido Guard Villagers
+* Removido Ice and Fire
+* Removido Immersive Aircraft
+* Removido Macaw's Bridges (BoP)
+* Removido Macaw's Fences (BoP)
+* Removido Neruina
+* Removido Spartan Weaponry: Ice and Fire
+
+**Actualizados**
+* Actualizado Advanced Chimneys v10.1.15.0 -> v10.1.18.0
+* Actualizado Amendments v1.1.12 -> v1.1.19
+* Actualizado Aquaculture v2.5.3 -> v2.5.5
+* Actualizado Aquaculture Delight v1.0.0 -> v1.1.1
+* Actualizado Artifacts v9.5.13 -> v9.5.16
+* Actualizado Born In Chaos v1.5.2 -> v1.7
+* Actualizado Create v0.5.1 -> v6.0.6
+* Actualizado Create Connected v0.9.2 -> v1.1.7
+* Actualizado Create Crafts and Additions v1.2.4 -> v1.3.1
+* Actualizado Crock Pot v1.0.4 -> v1.1.1
+* Actualizado Death Backup v3.4 -> v3.5
+* Actualizado Deep Aether v1.0.4 -> v1.1.6.1
+* Actualizado Ender's Delight v1.0.3 -> v1.1.3
+* Actualizado Entity Culling v1.7.2 -> v1.8.0
+* Actualizado Farmer's Delight v1.2.6 -> v1.2.8
+* Actualizado Friends and Foes v3.0.6 -> v3.0.9
+* Actualizado Healing Campfire v6.1 -> v6.2
+* Actualizado Infinite Trading v4.5 -> v4.6
+* Actualizado Iron's Spells 'n Spellbooks v3.4.0.5 -> v3.4.0.9
+* Actualizado Just Enough Items v15.20.0.105 -> v15.20.0.112
+* Actualizado L_Ender's Cataclysm v2.27 -> v3.03
+* Actualizado Let's Do Beach Party v1.1.5 -> v2.0.2
+* Actualizado Let's Do Herbal Brews v1.0.8 -> v1.0.12
+* Actualizado Let's Do Nether Vinery v1.2.16 -> v1.2.17
+* Actualizado Let's Do Vinery v1.4.34 -> v1.4.39
+* Actualizado Lootr v0.7.35.90 -> v0.7.35.91
+* Actualizado Macaw's Bridges v2.1.1 -> v3.1.0
+* Actualizado Macaw's Doors v1.1.2 -> v1.1.2
+* Actualizado Macaw's Fences and Walls v1.1.2 -> v1.2.0
+* Actualizado Macaw's Lights and Lamps v1.1.0 -> v1.1.2
+* Actualizado MDM v2.1.13 -> v25.6.1
+* Actualizado Medieval Buildings v1.0.2 -> v1.1.2
+* Actualizado Medieval Decoration v2.0 -> v2.1
+* Actualizado Modern Fix v5.19.7 -> v5.23.1
+* Actualizado Modonomicon v1.77.3 -> v1.77.6
+* Actualizado Mowzie's Mobs v1.6.5 -> v1.7.3
+* Actualizado Piglin proliferation v1.2.5 -> v1.2.6
+* Actualizado Refurbished Furniture v1.0.8 -> v1.0.14
+* Actualizado Re:Deco v1.13 -> v1.14.1
+* Actualizado Relics v0.8.0.7 -> v0.8.0.9
+* Actualizado Repurposed Structures v7.1.15 -> v7.1.17
+* Actualizado Right Click Harvest v3.2.3 -> v4.5.3
+* Actualizado Security Craft v1.9.12 -> v1.10.0.1
+* Actualizado Smarter Farmers v2.1.0 -> v2.1.2
+* Actualizado Smooth Chunk v3.8 -> v4.1
+* Actualizado Spartan Weaponry: Undergarden v1.0.1 -> v1.1.0
+* Actualizado Stack Refill v4.5 -> v4.7
+* Actualizado Supplementaries v3.1.11 -> v3.1.31
+* Actualizado The Aether v1.5.1 -> v1.5.2
+* Actualizado Undergarden Delight v1.0.0 -> v1.1.2
+* Actualizado Warden Horn v1.9 -> v1.11
+
+**APIs / Librerías**
+* Añadido Addons Lib v1.4 (API/Lib)
+* Añadido Jam Lib v1.3.5 (API/Lib)
+* Añadido Structure Gel v2.16.2 (API/Lib)
+* Añadido VMinus Forge v3.2.7 (API/Lib)
+* Actualizado Almost Unified v0.9.4 -> v0.10.0 (API/Lib)
+* Actualizado Balm v7.3.10 -> v7.3.31 (API/Lib)
+* Actualizado Blueprint v7.1.0 -> v7.1.3 (API/Lib)
+* Actualizado Citadel v2.6.0 -> v2.6.2 (API/Lib)
+* Actualizado Collective v7.87 -> v8.3 (API/Lib)
+* Actualizado Connectivity v6.1 -> v7.1 (API/Lib)
+* Actualizado Creative Core v2.12.27 -> v2.12.32 (API/Lib)
+* Actualizado Curios API v5.11.0 -> v5.14.1 (API/Lib)
+* Actualizado Forge Endertech v11.1.5.0 -> v11.1.7.0 (API/Lib)
+* Actualizado Framework v0.7.12 -> v0.7.15 (API/Lib)
+* Actualizado Gecko Lib v4.4.9 -> v4.7.2 (API/Lib)
+* Actualizado Groovy Mod Loader v4.0.9 -> v4.0.11 (API/Lib)
+* Actualizado Insane Lib v1.15.1 -> v1.21.12 (API/Lib)
+* Actualizado Lithostitched v1.3.9 -> v1.4.10 (API/Lib)
+* Actualizado Moonlight Lib v2.13.40 -> v2.14.11 (API/Lib)
+* Actualizado OctoLib v0.4.2 -> v0.5.0.1 (API/Lib)
+* Actualizado Patchouli v84 -> v84.1 (API/Lib)
+* Actualizado Placebo v8.6.2 -> v8.6.3 (API/Lib)
+* Actualizado Puzzles Lib v8.1.25 -> v8.1.32 (API/Lib)
+* Actualizado Resourceful Config v2.1.2 -> v2.1.3 (API/Lib)
+* Actualizado Spartan Weaponry Addon Toolkit v1.5.0 -> v1.5.2 (API/Lib)
+* Actualizado SuperMartin642's Core Lib v1.1.17a -> v1.1.18 (API/Lib)
+* Actualizado Terra Blender v3.0.1.7 -> v3.0.1.10 (API/Lib)
+
+**Cliente**
+* Añadido Item Highlighter v1.1.9 (Cliente)
+* Removido Overloaded Armor Bar (Cliente)
+* Actualizado Ambient Sounds 6 v6.1.4 -> v6.1.11 (Cliente)
+* Actualizado Biome Info v1.6 -> v1.7 (Cliente)
+* Actualizado Chat Heads v0.13.7 -> v0.13.18 (Cliente)
+* Actualizado Falling Leaves v2.1.0 -> v2.1.2 (Cliente)
+* Actualizado Jade v11.11.1 -> v11.13.1 (Cliente)
+* Actualizado Not Enough Animations v1.8.2 -> v1.10.0 (Cliente)
+* Actualizado Oculus v1.7.0 -> v1.8.0 (Cliente)
+* Actualizado Skin Layers 3D v1.7.4 -> v1.8.0 (Cliente)
+* Actualizado Sound Physics v1.4.8 -> v1.4.10 (Cliente)
+
+**Servidor**
+* Actualizado Login Protection v3.4 -> v3.5 (Servidor)
 
 ### 5.3.1
 **Novedades**

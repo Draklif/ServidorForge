@@ -1,5 +1,5 @@
-# Versión 5.3.1
-Servidor para `Minecraft 1.20.1 - (Forge 47.3.12)`.
+# Versión 6.0.0
+Servidor para `Minecraft 1.20.1 - (Forge 47.4.0)`.
 
 ## Instalación
 1. Descargar e instalar Forge, teniendo cuidado de seleccionar la versión correspondiente según se indica al inicio de este archivo. 
