@@ -1,4 +1,4 @@
-# Versión 6.0.0
+# Versión 6.1.0
 ## Modlist
 ### Servidor
 * Security Craft v1.10.0.1
@@ -55,6 +55,7 @@
 * Create v6.0.6
 * Create Connected v1.1.7
 * Create Crafts and Additions v1.3.1
+* Create Mob Spawners v3.0.0
 * Create Numismatics v1.0.15
 * Creeper Overhaul v3.0.2
 * Critters and Companions v2.2.2
@@ -131,6 +132,7 @@
 * Majrusz's Enchantments v1.10.8
 * Majrusz's Progressive Difficulty v1.9.10
 * Majrusz's Progressive Difficulty Born in Chaos v1.0.1
+* Map Atlases v6.0.16
 * MDM v25.6.1
 * Medieval Buildings v1.1.2
 * Medieval Buildings (End) v1.0.1
@@ -160,6 +162,9 @@
 * Re:Deco v1.14.1
 * Refined Storage v1.12.4
 * Relics v0.8.0.9
+* Relics Artifacts Compat v0.1.7
+* Relics Alex's Caves Compat v0.1.3
+* Relics Alex's Mobs Compat v0.1.4
 * Refurbished Furniture v1.0.14
 * Repurposed Structures v7.1.17
 * Ribbits v3.0.4
@@ -172,7 +177,9 @@
 * Simply Swords v1.56.0
 * Sit v1.3.5
 * Skinned Lanterns v1.3.5
+* Sky Arena v1.3.1
 * Slimy Boyos v7.0.0.4
+* Small Ships v2.0.0b1.4
 * Smarter Farmers v2.1.2
 * Smooth Chunk v4.1
 * Snuffles v1.0.7
@@ -205,14 +212,17 @@
 * Trashcans v1.0.18
 * Twigs v3.1.0
 * Undergarden Delight v1.1.2
+* Vanilla Backport v1.1.4.3
 * Visual Workbench v8.0.0
 * Waddles v0.9.4
 * Warden Horn v1.11
 * Weapon Mastery v4.2.3
+* Will's Hedgehogs v1.1.1
 * Wooden Hopper v1.6.0.1
 * XP Tome v2.2.1
 * Yung's Better End Island v2.0.6
 * Yung's Better Mineshafts v4.0.4
+* Yung's Better Strongholds v4.0.3
 * Yung's Cave Biomes v2.0.5
 
 ### Cliente
@@ -229,18 +239,23 @@
 * Drip Sounds v0.3.2
 * Eating Animation v5.1.0
 * Embeddium v0.3.11
+* Enchantment Descriptions v17.1.19
 * Entity Model Features v2.4.1
 * Entity Texture Features v6.2.9
 * Equipment Compare v1.3.7
 * Falling Leaves v2.1.2
+* Fancy Block Particles v20.1.4.1
 * Far Sight v3.7
+* First Person Model v2.4.9
 * FPS Reducer v2.5
 * Item Highlighter v1.1.9 
+* Legendary Tooltips v1.4.5 
 * Jade v11.13.1
 * Just Enough Resources v1.4.0.247
 * Midnight Lib v1.4.2
 * Mouse Tweaks v2.25.1
 * My Server is Compatible v1.0
+* Neko's Enchanted Books v2.0.3
 * Not Enough Animations v1.10.0
 * Oculus v1.8.0
 * Offline Skins v1
@@ -249,7 +264,6 @@
 * Skin Layers 3D v1.8.0
 * Sound Physics v1.4.10
 * Visuality v2.0.2
-* Visual Overhaul v5.0.1
 
 ### APIs / Librerías
 * Addons Lib (API/Lib)
@@ -291,6 +305,7 @@
 * OctoLib (API/Lib)
 * Patchouli (API/Lib)
 * Placebo (API/Lib)
+* Platform (API/Lib)
 * Player Animation Lib (API/Lib)
 * Puzzles Lib (API/Lib)
 * Resourceful Config (API/Lib)

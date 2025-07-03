@@ -1,9 +1,36 @@
-# Versión 6.0.0
+# Versión 6.1.0
 ## Changelog
 En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 6.1.0
+**Novedades**
+* Ya no se puede esquivar en el aire
+* Removido el sangrado
+
+**Añadidos**
+* Añadido Create Mob Spawners v3.0.0
+* Añadido Map Atlases v6.0.16
+* Añadido Relics Artifacts Compat v0.1.7
+* Añadido Relics Alex's Caves Compat v0.1.3
+* Añadido Relics Alex's Mobs Compat v0.1.4
+* Añadido Sky Arena v1.3.1
+* Añadido Small Ships v2.0.0b1.4
+* Añadido Vanilla Backport v1.1.4.3
+* Añadido Will's Hedgehogs v1.1.1
+* Añadido Yung's Better Strongholds v4.0.3
+
+**Cliente**
+* Removido Visual Overhaul (Cliente)
+* Añadido Fancy Block Particles v20.1.4.1 (Cliente)
+* Añadido First Person Model v2.4.9 (Cliente)
+* Añadido Legendary Tooltips v1.4.5 (Cliente)
+* Añadido Neko's Enchanted Books v2.0.3 (Cliente)
+
+**APIs / Librerías**
+* Añadido Platform v1.2.10.1 (API/Lib)
 
 ### 6.0.0
 **Novedades**
@@ -161,6 +188,7 @@ En esta sección se encontrarán los cambios por versión.
 **Cliente**
 * Añadido Item Highlighter v1.1.9 (Cliente)
 * Removido Overloaded Armor Bar (Cliente)
+* Removido Visual Overhaul (Cliente)
 * Actualizado Ambient Sounds 6 v6.1.4 -> v6.1.11 (Cliente)
 * Actualizado Biome Info v1.6 -> v1.7 (Cliente)
 * Actualizado Chat Heads v0.13.7 -> v0.13.18 (Cliente)
