@@ -1,4 +1,4 @@
-# Versión 6.1.0
+# Versión 6.1.1
 ## Modlist
 ### Servidor
 * Security Craft v1.10.0.1
@@ -307,6 +307,7 @@
 * Placebo (API/Lib)
 * Platform (API/Lib)
 * Player Animation Lib (API/Lib)
+* Prism (API/Lib)
 * Puzzles Lib (API/Lib)
 * Resourceful Config (API/Lib)
 * Resourceful Lib (API/Lib)
