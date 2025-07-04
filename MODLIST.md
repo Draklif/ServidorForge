@@ -1,4 +1,4 @@
-# Versión 6.1.1
+# Versión 6.1.2
 ## Modlist
 ### Servidor
 * Security Craft v1.10.0.1
@@ -109,8 +109,7 @@
 * Just Enough Items v15.20.0.112
 * Kobolds v2.12.0
 * L_Ender's Cataclysm v3.03
-* Legendary Creatures v1.0.18*
-* Legendary Monsters v1.9.7*
+* Legendary Monsters v1.9.7
 * Let's Do Bakery v1.1.15
 * Let's Do Beachparty v2.0.2
 * Let's Do Brewery v1.1.9
