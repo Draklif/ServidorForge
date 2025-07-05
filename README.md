@@ -1,4 +1,4 @@
-# Versión 6.1.2
+# Versión 6.1.3
 Servidor para `Minecraft 1.20.1 - (Forge 47.4.0)`.
 
 ## Instalación

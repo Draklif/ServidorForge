@@ -1,4 +1,4 @@
-# Versión 6.1.2
+# Versión 6.1.3
 ## Modlist
 ### Servidor
 * Security Craft v1.10.0.1
@@ -190,7 +190,6 @@
 * Spartan Weaponry: Undergarden v1.1.0
 * Spice of Life: Apple Pie v2.3.0
 * Stackable Potions v1.0.0
-* Stack Refill v4.7
 * Stardew Fishing v2.3
 * Structory v1.3.5
 * Structory Towers v1.0.7
