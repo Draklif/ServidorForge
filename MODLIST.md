@@ -1,4 +1,4 @@
-# Versión 6.1.3
+# Versión 6.1.4
 ## Modlist
 ### Servidor
 * Security Craft v1.10.0.1
@@ -92,7 +92,6 @@
 * Feathers v1.1
 * Female Gender v3.0.1
 * Ferrite Core v6.0.1
-* Friends and Foes v3.0.9
 * Gardens of the Dead v4.0.1
 * Ghost v1.1.0
 * Golden Hopper v1.4.1
@@ -211,7 +210,6 @@
 * Twigs v3.1.0
 * Undergarden Delight v1.1.2
 * Vanilla Backport v1.1.4.3
-* Visual Workbench v8.0.0
 * Waddles v0.9.4
 * Warden Horn v1.11
 * Weapon Mastery v4.2.3
