@@ -1,4 +1,4 @@
-# Versión 6.1.4
+# Versión 6.1.5
 ## Modlist
 ### Servidor
 * Security Craft v1.10.0.1
@@ -20,7 +20,6 @@
 * Alex's Delight v1.5
 * Alex's Caves v2.0.2
 * Alex's Mobs v1.22.9
-* Alex's Mobs - Naturalist Compat v1.0
 * Almost Unified v0.9.2
 * Amendments v1.1.19
 * Appleskin v1.3.4
@@ -314,5 +313,4 @@
 * SuperMartin642's Core Lib (API/Lib)
 * Terrablender (API/Lib)
 * Trenzalore (API/Lib)
-* VMinus Forge (API/Lib)
 * Yung's API (API/Lib)
