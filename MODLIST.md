@@ -1,4 +1,4 @@
-# Versión 6.1.5
+# Versión 6.2.0
 ## Modlist
 ### Servidor
 * Security Craft v1.10.0.1
@@ -26,10 +26,13 @@
 * Aquaculture v2.5.5
 * Aquaculture Delight v1.1.1
 * Aquamirae v6
+* Aquamirae Better Combat v1
+* Aquamirae Delight v1.5.2
 * Armor Poser v2.2.2
 * Artifacts v9.5.16
 * Astikor Carts v1.1.8
 * Attribute Fix v21.0.4
+* Automobility v0.4.2
 * Backpacked v2.2.5
 * Bamboo Everything v3.0.3
 * Beautify v2.0.2
@@ -40,6 +43,7 @@
 * Blue Skies v1.3.31
 * Born In Chaos v1.7
 * Bumblezone v7.8.0
+* Call of Yucatán v1.0.13
 * Call of Yucatán v1.0.13
 * Chalk v1.6.6
 * Charm of Undying v6.5.0
@@ -102,6 +106,7 @@
 * Horse Expert v8.1.1
 * Incendium v5.3.5
 * Infinite Trading v4.6
+* In Control v9.3.3
 * Iron Chest v14.4.4
 * Iron's Spells 'n Spellbooks v3.4.0.9
 * Just Enough Items v15.20.0.112
@@ -129,7 +134,6 @@
 * Majrusz's Enchantments v1.10.8
 * Majrusz's Progressive Difficulty v1.9.10
 * Majrusz's Progressive Difficulty Born in Chaos v1.0.1
-* Map Atlases v6.0.16
 * MDM v25.6.1
 * Medieval Buildings v1.1.2
 * Medieval Buildings (End) v1.0.1
@@ -235,6 +239,7 @@
 * Eating Animation v5.1.0
 * Embeddium v0.3.11
 * Enchantment Descriptions v17.1.19
+* Enchantment Level Language Patch v3.0.0
 * Entity Model Features v2.4.1
 * Entity Texture Features v6.2.9
 * Equipment Compare v1.3.7
