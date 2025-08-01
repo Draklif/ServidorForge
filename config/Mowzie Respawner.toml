@@ -1,0 +1,5 @@
+
+[BasicConfig]
+	#frostmaw spawns in any snowy biome
+	frostmaw_spawm = true
+

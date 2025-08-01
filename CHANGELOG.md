@@ -1,9 +1,78 @@
-# Versión 6.2.0
+# Versión 6.2.1
 ## Changelog
 En esta sección se encontrarán los cambios por versión.
 * Una versión grande X.0.0 incluirá cambios significativos como mods masivos, generación de mundo o dimensiones. Requiere actualizar.
 * Una versión mediana 0.X.0 incluirá cambios a mods ya existentes. Requiere actualizar. 
 * Una versión pequeña 0.0.X incluirá cambios a configuraciones o mods de cliente. No requiere actualizar.
+
+### 6.2.1
+**Novedades**
+* Removidos los efectos de poción obtenidos al comer
+* Reiniciado el Aether
+* Objetos removidos
+    * Removido el Infinity Ham
+    * Removido el Tome of Hungering Knowledge
+    * Removido el Twisted Mirror
+* Ajustes a objetos malditos
+    * Removida la regeneración del Scroll of a Thousand Curses
+    * Reducido el bonificador de encantamiento del Ring of the Seven Curses (10 -> 5)
+    * Reducido el daño del Scroll of a Thousand Curses (4% -> 2%) por maldición
+    * Reducido el daño del Emblem of Bloodstained Valor (1% -> 0.5%) por maldición
+    * Reducido la velocidad de ataque del Emblem of Bloodstained Valor (1% -> 0.5%) por maldición
+* Cambios de conjuros
+    * Aumentado el cooldown de los conjuros en armas (50% - 80%)
+    * Aumentado el cooldown de Angel Wing (2m - 5m)
+    * Aumentado el cooldown de Divine Smite (15s - 30s)
+    * Aumentado el cooldown de Recall (5m - 15m)
+    * Aumentado el poder de Heartstop (1.0 -> 1.2) por nivel
+    * Aumentado el costo de maná de Healing Circle (1.0 -> 1.2) por nivel
+    * Reducido el poder de Echoing Strikes (1.0 -> 0.8) por nivel
+    * Reducido el poder de Charge (1.0 -> 0.6) por nivel
+    * Reducido el poder de Blight (1.0 -> 0.8) por nivel
+    * Reducido el poder de Angel Wing (1.0 -> 0.5) por nivel
+    * Reducido el poder de Healing Circle (1.0 -> 0.6) por nivel
+    * Removido Gluttony
+* Cambios de enemigos
+    * El Quetzalcoatlus y el Grapteranodón ahora solo aparecen en las Cuevas Primordiales
+    * El Ferrous Wroughtnaut ahora es un mini-boss
+    * El Lord Pumpkinhead ahora es un mini-boss
+    * Overworld
+        * Aumentada la vida máxima del Elder Guardian (80 -> 240)
+        * Aumentada la vida máxima de Kukulkan (600 -> 2400)
+        * Aumentada la vida máxima de Ah-Puch (400 -> 2400)
+        * Aumentada la vida máxima del Campeón Corrupto (4800 -> 6000)
+        * Reducida la vida máxima de las Nagas (90 -> 45)
+        * Reducida la vida máxima del Ferrous Wroughtnaut (400 -> 260)
+        * Reducida la vida máxima de The Sunbird (1500 -> 750)
+        * Reducida la vida máxima de The Sculptor (1400 -> 700)
+        * Reducida la vida máxima de la Madre del Laberinto (1000 -> 900)
+        * Aumentado el daño del Frostmaw (3 -> 5)
+        * Aumentado el daño del Ferrous Wroughtnaut (5 -> 10)
+    * Nether
+        * Aumentada la vida máxima del Wither (300 -> 900)
+    * End
+        * Aumentada la vida máxima de la Dragona del End (500 -> 3000)
+    * Aether
+        * Aumentada la vida máxima de las Valkyrie (50 -> 150)
+        * Aumentada la vida máxima del Slider (400 -> 1200)
+        * Aumentada la vida máxima del Aerwhale King (500 -> 1500)
+        * Aumentada la vida máxima de la Valkyrie Queen (500 -> 1500)
+        * Aumentada la vida máxima del Eye of the Storm (220 -> 1760)
+        * Aumentada la vida máxima del Sun Spirit (500 -> 2500)
+        * Aumentado el daño de la Mutated Aechor Plant (1 -> 8)
+        * Aumentado el daño del Slider (1 -> 2)
+        * Aumentado el daño del Aerwhale King (1 -> 2)
+        * Aumentado el daño de las Valkyrie (1 -> 2)
+        * Aumentado el daño de la Valkyrie Queen (1 -> 2)
+        * Aumentado el daño del Eye of the Storm (1 -> 2)
+        * Aumentado el daño del Sun Spirit (1 -> 3)
+
+**Añadidos**
+* Añadido KubeJS v16
+* Añadido Create Powerloader v2.0.3
+
+**APIs / Librerías**
+* Añadido Rhino Forge v10 (API/Lib)
 
 ### 6.2.0
 **Añadidos**
@@ -388,7 +457,7 @@ En esta sección se encontrarán los cambios por versión.
     * Aumentada la vida máxima de la Madre del Laberinto (200 -> 1000)
     * Aumentada la vida máxima de las Hidras (250 -> 1500)
     * Aumentada la vida máxima de los Dragones (500 -> 1500)
-    * Aumentada la vida máxima de Umvuthi (300 -> 1800)
+    * Aumentada la vida máxima de The Sun Bird (300 -> 1800)
     * Aumentada la vida máxima de la Capitana Cornelia (200 -> 2400)
     * Aumentada la vida máxima del Frostmaw (500 -> 2500)
     * Aumentada la vida máxima del Void Worm (320 -> 3200)
@@ -409,7 +478,7 @@ En esta sección se encontrarán los cambios por versión.
     * Aumentado el daño de las Anguilas (1 -> 2)
     * Aumentado el daño del Kobolediator (1 -> 3)
     * Aumentado el daño de la Madre del Laberinto (1 -> 2)
-    * Aumentado el daño de Unvuthi (1 -> 3)
+    * Aumentado el daño de The Sunbird (1 -> 3)
     * Aumentado el daño de la Capitana Cornelia (1 -> 3)
     * Aumentado el daño del Frostmaw (1 -> 3)
     * Aumentado el daño del Void Worm (1 -> 3)
@@ -442,7 +511,7 @@ En esta sección se encontrarán los cambios por versión.
     * Las serpientes marinas ya no destruyen bloques
     * Aumentada la vida máxima de las serpientes marinas (20 -> 50)
     * Aumentada la vida máxima de la Madre del Laberinto (100 -> 200)
-    * Aumentada la vida máxima de Umvuthi (150 -> 300)
+    * Aumentada la vida máxima de The Sunbird (150 -> 300)
     * Aumentada la vida máxima del Void Worm (160 -> 320)
     * Aumentada la vida máxima de las anguilas (180 -> 360)
     * Aumentada la vida máxima del Frostmaw (250 -> 500)
