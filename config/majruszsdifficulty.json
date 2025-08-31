@@ -1,6 +1,6 @@
 {
   "game_stages": {
-    "is_per_player_difficulty_enabled": false,
+    "is_per_player_difficulty_enabled": true,
     "list": [
       {
         "id": "normal",
@@ -98,35 +98,35 @@
     },
     "creeper_spawn_charged": {
       "is_enabled": true,
-      "required_game_stage": "normal",
+      "required_game_stage": "master",
       "chance": 0.125,
       "is_scaled_by_crd": true
     },
     "creeper_spawn_debuffed": {
       "is_enabled": true,
-      "required_game_stage": "normal",
+      "required_game_stage": "expert",
       "chance": 0.375,
       "is_scaled_by_crd": true,
       "effects": [
         {
           "id": "minecraft:weakness",
           "amplifier": 0,
-          "duration": 60.0
+          "duration": 600.0
         },
         {
           "id": "minecraft:slowness",
           "amplifier": 0,
-          "duration": 60.0
+          "duration": 600.0
         },
         {
           "id": "minecraft:mining_fatigue",
           "amplifier": 0,
-          "duration": 60.0
+          "duration": 600.0
         },
         {
           "id": "minecraft:saturation",
           "amplifier": 0,
-          "duration": 60.0
+          "duration": 600.0
         }
       ]
     },
@@ -142,9 +142,9 @@
     },
     "deadlier_explosions": {
       "is_enabled": true,
-      "required_game_stage": "normal",
+      "required_game_stage": "expert",
       "radius_multiplier": 1.2599,
-      "fire_chance": 0.75,
+      "fire_chance": 0.0,
       "is_scaled_by_crd": true
     },
     "double_loot": {
@@ -173,7 +173,7 @@
     },
     "evoker_with_totem": {
       "is_enabled": true,
-      "required_game_stage": "normal",
+      "required_game_stage": "expert",
       "chance": 1.0,
       "is_scaled_by_crd": true
     },
@@ -260,7 +260,7 @@
         ]
       },
       "mother_spider": {
-        "required_game_stage": "expert",
+        "required_game_stage": "master",
         "chance": 0.15,
         "is_scaled_by_crd": true,
         "leader_types": [
@@ -609,7 +609,7 @@
       },
       {
         "required_game_stage": "master",
-        "chance": 0.5,
+        "chance": 0.25,
         "is_scaled_by_crd": true,
         "entity_type": "minecraft:shulker",
         "effect": {
@@ -661,14 +661,15 @@
           "majruszsdifficulty:cerberus"
         ],
         "expert": [
-          "majruszsdifficulty:cerberus"
+          "majruszsdifficulty:cerberus",
+          "majruszsdifficulty:illusioner"
         ],
         "master": []
       }
     },
     "spawn_killer_bunny": {
       "is_enabled": true,
-      "required_game_stage": "expert",
+      "required_game_stage": "master",
       "chance": 0.1,
       "is_scaled_by_crd": true
     },
@@ -703,9 +704,9 @@
     "highlight_delay": 300.0,
     "extra_size_ratio_per_player": 0.5,
     "area_radius": 70,
-    "kill_requirement": 100,
-    "kill_requirement_first": 25,
-    "kill_requirement_warning": 3,
+    "kill_requirement": 1000,
+    "kill_requirement_first": 125,
+    "kill_requirement_warning": 15,
     "waves": [
       {
         "mobs": [

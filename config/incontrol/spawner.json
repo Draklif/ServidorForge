@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "mob": "tameablebeasts:quetzalcoatlus",
+        "persecond": 0.05,
+        "attempts": 5,
+        "amount": {
+            "minimum": 1,
+            "maximum": 3
+        },
+        "conditions": {
+            "dimension": "minecraft:overworld",
+            "norestrictions": true,
+            "mindist": 25,
+            "maxdist": 100,
+            "minheight": -64,
+            "maxthis": 1,
+            "and": {
+                "biome": "alexscaves:primordial_caves"
+            }
+        }
+    },
+    {
+        "mob": "tameablebeasts:graptera",
+        "persecond": 0.05,
+        "attempts": 3,
+        "amount": {
+            "minimum": 1,
+            "maximum": 1
+        },
+        "conditions": {
+            "dimension": "minecraft:overworld",
+            "norestrictions": true,
+            "mindist": 25,
+            "maxdist": 100,
+            "minheight": -64,
+            "maxthis": 1,
+            "and": {
+                "biome": "alexscaves:primordial_caves"
+            }
+        }
+    },
+    {
+        "mob": "born_in_chaos_v1:fallen_chaos_knight",
+        "persecond": 0.5,
+        "attempts": 10,
+        "amount": {
+            "minimum": 2,
+            "maximum": 5
+        },
+        "conditions": {
+            "dimension": "minecraft:nether",
+            "norestrictions": true,
+            "mindist": 25,
+            "maxdist": 100,
+            "minheight": -64,
+            "maxthis": 10,
+            "and": {
+                "structure": "irons_spellbooks:ancient_battleground"
+            }
+        }
+    }
+]

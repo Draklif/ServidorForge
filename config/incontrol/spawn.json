@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "mob": ["twilightforest:alpha_yeti", "minecraft:wither", "minecraft:elder_guardian", "call_of_yucutan:undead_warrior", "call_of_yucutan:blowgun_huracan", "call_of_yucutan:mitnal_monkey", "aether:slider", "lost_aether_content:aerwhale_king", "aether:valkyrie", "aether:valkyrie_queen"],
+        "when": "onjoin",
+        "result": "allow",
+        "healthmultiply": 3,
+        "damagemultiply": 2
+    },
+    {
+        "mob": ["minecraft:ender_dragon", "call_of_yucutan:ah_puch"],
+        "when": "onjoin",
+        "result": "allow",
+        "healthmultiply": 6,
+        "damagemultiply": 3
+    },
+    {
+        "mob": ["call_of_yucutan:kukulkan"],
+        "when": "onjoin",
+        "result": "allow",
+        "healthmultiply": 4,
+        "damagemultiply": 3
+    },
+    {
+        "mob": ["deep_aether:eots_segment"],
+        "when": "onjoin",
+        "result": "allow",
+        "healthmultiply": 8,
+        "damagemultiply": 2
+    },
+    {
+        "mob": ["aether:sun_spirit"],
+        "when": "onjoin",
+        "result": "allow",
+        "healthmultiply": 5,
+        "damagemultiply": 3
+    },
+    {
+        "mob": ["ancient_aether:mutated_aechor_plant"],
+        "when": "onjoin",
+        "result": "allow",
+        "healthmultiply": 1,
+        "damagemultiply": 8
+    },
+    {
+        "mob": ["tameablebeasts:quetzalcoatlus", "tameablebeasts:graptera"],
+        "biome": "alexscaves:primordial_caves",
+        "result": "allow"
+    },
+    {
+        "mob": ["born_in_chaos_v1:fallen_chaos_knight"],
+        "structure": "irons_spellbooks:ancient_battleground",
+        "result": "allow"
+    },
+    {
+        "mob": ["tameablebeasts:quetzalcoatlus", "tameablebeasts:graptera", "born_in_chaos_v1:fallen_chaos_knight"],
+        "result": "deny"
+    }
+]

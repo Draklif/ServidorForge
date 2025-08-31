@@ -1,4 +1,4 @@
-# Versión 6.2.1
+# Versión 6.2.2
 ## Modlist
 ### Servidor
 * Security Craft v1.10.0.1
