@@ -29,10 +29,10 @@ paragliderInTowersOfTheWild = "DEFAULT"
 	raidGivesVessel = true
 	#Amount of Spirit Orbs dropped from spawners.
 	#Range: 0 ~ 64
-	spawnerSpiritOrbDrops = 2
+	spawnerSpiritOrbDrops = 1
 	#If true, various types of chest will have chances of having Spirit Orbs inside.
 	#Does not change contents of already generated chests.
-	spiritOrbLoots = true
+	spiritOrbLoots = false
 
 [vessels]
 	#Starting health points measured in number of hearts.
@@ -42,7 +42,7 @@ paragliderInTowersOfTheWild = "DEFAULT"
 	#Do note that the maximum health point is capped at value of 1024 (or 512 hearts) by Minecraft's default
 	#attribute system; without modifying these limits, Heart Containers won't give you extra hearts beyond that.
 	#Range: 0 ~ 512
-	maxHeartContainers = 20
+	maxHeartContainers = 10
 	#Maximum amount of stamina Player can get. Do note that one third of this value is equal to one stamina wheel.
 	#Range: > 0
 	maxStamina = 3000

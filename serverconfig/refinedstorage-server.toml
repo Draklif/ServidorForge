@@ -66,7 +66,7 @@
 	usage = 0
 	#The energy used per disk in the Disk Drive
 	#Range: > 0
-	diskUsage = 1
+	diskUsage = 2
 
 [storageBlock]
 	#The energy used by the 1k Storage Block
@@ -105,7 +105,7 @@
 [externalStorage]
 	#The energy used by the External Storage
 	#Range: > 0
-	usage = 6
+	usage = 4
 
 [importer]
 	#The energy used by the Importer
