@@ -81,7 +81,7 @@
 		"guardvillagers:guard": "NEUTRAL"
 	},
 	// Relation to unspecified entities those are instance of PassiveEntity(Yarn)
-	"player_relation_to_passives": "HOSTILE",
+	"player_relation_to_passives": "NEUTRAL",
 	// Relation to unspecified entities those are instance of HostileEntity(Yarn)
 	"player_relation_to_hostiles": "HOSTILE",
 	// Fallback relation

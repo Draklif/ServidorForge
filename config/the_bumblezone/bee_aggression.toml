@@ -7,7 +7,7 @@
 		#
 		# If set to true, any entity that harms a beehemoth and is not owner of it,
 		# that entity will get Wrath of the Hive effect.
-		beehemothTriggersWrath = false
+		beehemothTriggersWrath = true
 		# 
 		#-----------------------------------------------------
 		#
@@ -22,7 +22,7 @@
 		# Show the orangish particles when you get Wrath of the Hive
 		# after you angered the bees in the Bumblezone dimension.
 		#
-		showWrathOfTheHiveParticles = true
+		showWrathOfTheHiveParticles = false
 		# 
 		#-----------------------------------------------------
 		#
@@ -73,7 +73,7 @@
 		# faster dash attacks from bees.
 		#
 		#Range: > 1
-		speedBoostLevel = 2
+		speedBoostLevel = 3
 		# 
 		#-----------------------------------------------------
 		#
@@ -88,7 +88,7 @@
 		# If you set this to like 5 or something, bees may be invicible! Game over.
 		#
 		#Range: > 1
-		absorptionBoostLevel = 1
+		absorptionBoostLevel = 2
 		# 
 		#-----------------------------------------------------
 		#
@@ -96,5 +96,5 @@
 		# (5 or higher will instant kill you without armor).
 		#
 		#Range: > 1
-		strengthBoostLevel = 1
+		strengthBoostLevel = 2
 
