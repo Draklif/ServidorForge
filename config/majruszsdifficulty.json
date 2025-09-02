@@ -260,7 +260,7 @@
         ]
       },
       "mother_spider": {
-        "required_game_stage": "master",
+        "required_game_stage": "expert",
         "chance": 0.15,
         "is_scaled_by_crd": true,
         "leader_types": [
@@ -609,13 +609,13 @@
       },
       {
         "required_game_stage": "master",
-        "chance": 0.25,
+        "chance": 0.15,
         "is_scaled_by_crd": true,
         "entity_type": "minecraft:shulker",
         "effect": {
           "id": "minecraft:blindness",
           "amplifier": 0,
-          "duration": 7.0
+          "duration": 5.0
         }
       },
       {
@@ -646,7 +646,7 @@
     },
     "pillager_with_fireworks": {
       "is_enabled": true,
-      "required_game_stage": "master",
+      "required_game_stage": "expert",
       "chance": 0.15,
       "is_scaled_by_crd": true,
       "crossbow_multishot_chance": 0.25,
@@ -670,7 +670,7 @@
     "spawn_killer_bunny": {
       "is_enabled": true,
       "required_game_stage": "master",
-      "chance": 0.1,
+      "chance": 0.01,
       "is_scaled_by_crd": true
     },
     "spawn_player_zombie": {
@@ -692,7 +692,7 @@
   },
   "blood_moon": {
     "is_enabled": false,
-    "night_trigger_chance": 0.0666,
+    "night_trigger_chance": 0.00666,
     "spawn_rate_multiplier": 2.0,
     "crd_penalty": 0.5
   },

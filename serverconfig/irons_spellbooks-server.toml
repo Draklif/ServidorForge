@@ -796,7 +796,7 @@
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 0.5
 		CooldownInSeconds = 300.0
-		AllowCrafting = true
+		AllowCrafting = false
 
 	[Spells."irons_spellbooks:sunbeam"]
 		Enabled = true
@@ -880,11 +880,11 @@
 		School = "irons_spellbooks:holy"
 		MaxLevel = 1
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
-		MinRarity = "RARE"
+		MinRarity = "LEGENDARY"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 45.0
-		AllowCrafting = true
+		AllowCrafting = false
 
 	[Spells."irons_spellbooks:cloud_of_regeneration"]
 		Enabled = false

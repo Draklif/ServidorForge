@@ -9,7 +9,7 @@
 	pickpocketMaxRangeAngle = 80.0
 	# When picking up a backpack (with items inside) off the ground, the item will automatically equip. Having this enabled may not be ideal for multiplayer servers.
 	# Valid values: true, false
-	autoEquipBackpackOnPickup = false
+	autoEquipBackpackOnPickup = true
 	# If enabled, prevents backpacks from being customised. This will remove the customise button from the backpack inventory
 	# Valid values: true, false
 	disableCustomisation = false

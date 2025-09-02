@@ -32,12 +32,12 @@
 	# and Slowness I below the corresponding threshold.
 	#
 	#
-	benefitsUnparsed = ["attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1;attribute,generic.armor_toughness,2", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1;attribute,generic.knockback_resistance,1", "attribute,generic.max_health,1;attribute,generic.speed,2", "attribute,generic.max_health,1;attribute,generic.armor_toughness,2", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1;attribute,generic.armor_toughness,2", "attribute,generic.max_health,1", "attribute,generic.max_health,1"]
+	benefitsUnparsed = ["attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1;attribute,generic.armor_toughness,2", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1;attribute,generic.knockback_resistance,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1;attribute,generic.armor_toughness,2", "attribute,generic.max_health,1", "attribute,generic.max_health,1", "attribute,generic.max_health,1;attribute,generic.armor_toughness,2", "attribute,generic.max_health,2", "attribute,generic.max_health,3"]
 	# The minimum number of foods a player needs to eat before any benefits are applied.
 	#
 	#
 	#Range: 0 ~ 1000
-	minFoodsToActivate = 0
+	minFoodsToActivate = 5
 
 [Filtering]
 	# Foods in this list won't contribute to food diversity.
@@ -69,7 +69,7 @@
 	#
 	#
 	#Range: 1 ~ 1000
-	queueSize = 32
+	queueSize = 60
 
 [Advanced]
 	# These config options all affect the technical details of how diversity is calculated.
@@ -95,14 +95,14 @@
 	#
 	#
 	#Range: 0 ~ 1000
-	endDecay = 32
+	endDecay = 60
 	#
 	# How many meals in the past should the diversity time penalty start to apply.
 	# **Needs to be less than queueSize and less than or equal to endDecay!!!**
 	#
 	#
 	#Range: 0 ~ 1000
-	startDecay = 0
+	startDecay = 10
 	#
 	# Whether blacklisted foods should still take a spot in the queue, even if they don't contribute any diversity.
 	#

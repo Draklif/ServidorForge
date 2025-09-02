@@ -1,12 +1,12 @@
 {
   "showDesc": {
     "desc:": "Should enchanted books show a hint for curse magic, default:true",
-    "showDesc": true
+    "showDesc": false
   },
   "excludedCurses": {
     "desc:": "Add a curse id here to exclude it from beeing applied. To put multiple values seperate them by commas like this:  [\"minecraft:curse\", \"mod:curse;\"] ",
     "excludedCurses": [
-      "minecraft:vanishing_curse"
+      ""
     ]
   },
   "excludeTreasure": {
