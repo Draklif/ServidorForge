@@ -1,5 +1,0 @@
-
-[Modpack]
-	#Allows Ancient Aether to override Server Config default values, should not be disabled normally
-	"Server Config Overrides" = true
-
