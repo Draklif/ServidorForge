@@ -1,4 +1,4 @@
-# Versión 1.1.0c
+# Versión 1.2.0c
 Servidor para `Minecraft 1.21.1 - (Neoforge 21.1.234)`.
 
 ## Instalación

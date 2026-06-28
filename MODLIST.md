@@ -1,4 +1,4 @@
-# Versión 1.1.0c
+# Versión 1.2.0c
 ## Modlist
 ### Servidor
 * Overhauled Village v3.6.3
@@ -25,8 +25,6 @@
 * Radical Gyms Structures v1
 * Radical Trainers v0.18.1
 * Sky Villages v1.0.6
-* Supplementaries v3.6.8
-* Supplementaries Squared v1.2.18
 
 ### Cliente
 * WIP
